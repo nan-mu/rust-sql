@@ -1,8 +1,8 @@
 mod db_option;
-use crate::db_option::{initialize_database, insert_item, Item};
+use crate::db_option::{init_database, insert_item, Item};
 use rusqlite::Connection;
 fn main() {
-    initialize_database().unwrap();
+    init_database().unwrap();
 
     let conn = Connection::open("air_quality.db").expect("Could not open database");
 

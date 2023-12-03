@@ -41,7 +41,7 @@ impl Item {
     }
 }
 
-pub fn initialize_database() -> Result<()> {
+pub fn init_database() -> Result<()> {
     //假如数据库文件存在，则删除。
     let db_path = Path::new("air_quality.db");
     if db_path.exists() {
@@ -91,41 +91,42 @@ pub fn load_from_csv(conn: &Connection) -> Result<()> {
     let mut rdr = ReaderBuilder::new().delimiter(b'\t').from_reader(file);
     for result in rdr.records() {
         let record = result.unwrap();
-        let item = Item::new(
-            record.get(0).ok_or("Missing region").unwrap(),
-            record.get(1).ok_or("Missing subregion").unwrap(),
-            record.get(2).ok_or("Missing country").unwrap(),
-            record.get(3).ok_or("Missing city").unwrap(),
-            record
-                .get(4)
-                .ok_or("Missing PM10")
-                .unwrap()
-                .parse::<f64>()
-                .unwrap(),
-            NaiveDateTime::parse_from_str(
-                &format!(
-                    "{}-01-01 00:00:00",
-                    record.get(5).ok_or("Missing PM10 Year").unwrap()
-                ),
-                "%Y-%m-%d %H:%M:%S",
-            )
-            .unwrap(),
-            record
-                .get(6)
-                .ok_or("Missing PM2.5")
-                .unwrap()
-                .parse::<f64>()
-                .unwrap(),
-            NaiveDateTime::parse_from_str(
-                &format!(
-                    "{}-01-01 00:00:00",
-                    record.get(7).ok_or("Missing PM2.5 Year").unwrap()
-                ),
-                "%Y-%m-%d %H:%M:%S",
-            )
-            .unwrap(),
-        );
-        insert_item(conn, &item).unwrap();
+        println!("{:?}", record.get(0));
+        // let item = Item::new(
+        //     record.get(0).ok_or("Missing region").unwrap(),
+        //     record.get(1).ok_or("Missing subregion").unwrap(),
+        //     record.get(2).ok_or("Missing country").unwrap(),
+        //     record.get(3).ok_or("Missing city").unwrap(),
+        //     record
+        //         .get(4)
+        //         .ok_or("Missing PM10")
+        //         .unwrap()
+        //         .parse::<f64>()
+        //         .unwrap(),
+        //     NaiveDateTime::parse_from_str(
+        //         &format!(
+        //             "{}-01-01 00:00:00",
+        //             record.get(5).ok_or("Missing PM10 Year").unwrap()
+        //         ),
+        //         "%Y-%m-%d %H:%M:%S",
+        //     )
+        //     .unwrap(),
+        //     record
+        //         .get(6)
+        //         .ok_or("Missing PM2.5")
+        //         .unwrap()
+        //         .parse::<f64>()
+        //         .unwrap(),
+        //     NaiveDateTime::parse_from_str(
+        //         &format!(
+        //             "{}-01-01 00:00:00",
+        //             record.get(7).ok_or("Missing PM2.5 Year").unwrap()
+        //         ),
+        //         "%Y-%m-%d %H:%M:%S",
+        //     )
+        //     .unwrap(),
+        // );
+        // insert_item(conn, &item).unwrap();
     }
 
     Ok(())
@@ -133,13 +134,12 @@ pub fn load_from_csv(conn: &Connection) -> Result<()> {
 
 #[cfg(test)]
 mod tests {
-    // 注意这个惯用法：在 tests 模块中，从外部作用域导入所有名字。
-    use crate::db_option::{initialize_database, insert_item, Item};
+    use crate::db_option::{init_database, insert_item, load_from_csv, Item};
     use rusqlite::Connection;
 
     #[test]
     fn test_db_init() {
-        initialize_database().unwrap();
+        init_database().unwrap();
 
         let conn = Connection::open("air_quality.db").expect("Could not open database");
 
@@ -162,6 +162,8 @@ mod tests {
 
     #[test]
     fn test_load_csv() {
-        // 这个断言会导致测试失败。注意私有的函数也可以被测试！
+        init_database().unwrap();
+        let conn = Connection::open("air_quality.db").expect("Could not open database");
+        load_from_csv(&conn).unwrap();
     }
 }
