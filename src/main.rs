@@ -1,6 +1,8 @@
 mod db_option;
 use crate::db_option::{init_database, insert_item, Item};
 use rusqlite::Connection;
+use time::Date;
+
 fn main() {
     init_database().unwrap();
 
@@ -12,9 +14,9 @@ fn main() {
         "Sample Country",
         "Sample City",
         25.5,
-        chrono::Utc::now().naive_utc(),
+        Date::from_ordinal_date(2023, 1).unwrap(),
         15.3,
-        chrono::Utc::now().naive_utc(),
+        Date::from_ordinal_date(2023, 1).unwrap(),
     );
 
     match insert_item(&conn, &sample_item) {

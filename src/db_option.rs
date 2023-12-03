@@ -1,8 +1,8 @@
 use std::fs;
 
-use chrono::NaiveDateTime;
-use csv::ReaderBuilder;
+use csv;
 use std::path::Path;
+use time::Date;
 
 use rusqlite::{params, Connection, Result};
 #[derive(Debug)]
@@ -12,9 +12,9 @@ pub struct Item {
     country: String,
     city: String,
     pm10: f64,
-    pm10_year: NaiveDateTime,
+    pm10_year: Date,
     pm25: f64,
-    pm25_year: NaiveDateTime,
+    pm25_year: Date,
 }
 
 impl Item {
@@ -24,9 +24,9 @@ impl Item {
         country: &str,
         city: &str,
         pm10: f64,
-        pm10_year: NaiveDateTime,
+        pm10_year: Date,
         pm25: f64,
-        pm25_year: NaiveDateTime,
+        pm25_year: Date,
     ) -> Self {
         Item {
             region: region.to_string(),
@@ -76,9 +76,9 @@ pub fn insert_item(conn: &Connection, item: &Item) -> Result<()> {
             item.country,
             item.city,
             item.pm10,
-            item.pm10_year.timestamp(),
+            item.pm10_year.year(),
             item.pm25,
-            item.pm25_year.timestamp()
+            item.pm25_year.year()
         ],
     )?;
 
@@ -88,45 +88,60 @@ pub fn insert_item(conn: &Connection, item: &Item) -> Result<()> {
 pub fn load_from_csv(conn: &Connection) -> Result<()> {
     let csv_path = Path::new("res/9.world_pm25_pm10.csv");
     let file = fs::File::open(csv_path).unwrap();
-    let mut rdr = ReaderBuilder::new().delimiter(b'\t').from_reader(file);
+    let mut rdr = csv::ReaderBuilder::new()
+        .flexible(true)
+        .double_quote(false)
+        .from_reader(file);
     for result in rdr.records() {
         let record = result.unwrap();
-        println!("{:?}", record.get(0));
-        // let item = Item::new(
-        //     record.get(0).ok_or("Missing region").unwrap(),
-        //     record.get(1).ok_or("Missing subregion").unwrap(),
-        //     record.get(2).ok_or("Missing country").unwrap(),
-        //     record.get(3).ok_or("Missing city").unwrap(),
-        //     record
-        //         .get(4)
-        //         .ok_or("Missing PM10")
-        //         .unwrap()
-        //         .parse::<f64>()
-        //         .unwrap(),
-        //     NaiveDateTime::parse_from_str(
-        //         &format!(
-        //             "{}-01-01 00:00:00",
-        //             record.get(5).ok_or("Missing PM10 Year").unwrap()
-        //         ),
-        //         "%Y-%m-%d %H:%M:%S",
-        //     )
-        //     .unwrap(),
-        //     record
-        //         .get(6)
-        //         .ok_or("Missing PM2.5")
-        //         .unwrap()
-        //         .parse::<f64>()
-        //         .unwrap(),
-        //     NaiveDateTime::parse_from_str(
-        //         &format!(
-        //             "{}-01-01 00:00:00",
-        //             record.get(7).ok_or("Missing PM2.5 Year").unwrap()
-        //         ),
-        //         "%Y-%m-%d %H:%M:%S",
-        //     )
-        //     .unwrap(),
-        // );
-        // insert_item(conn, &item).unwrap();
+        //println!("{:?}", record);//for debug
+        let item = Item::new(
+            record.get(0).ok_or("Missing region").unwrap(),
+            match record.get(1) {
+                Some(mes) => mes,
+                None => {
+                    println!("问题数据：{:?}", record);
+                    "寄"
+                }
+            },
+            match record.get(2) {
+                Some(mes) => mes,
+                None => {
+                    println!("问题数据：{:?}", record);
+                    "寄"
+                }
+            },
+            record.get(3).ok_or("Missing city").unwrap(),
+            match record.get(4) {
+                Some(mes) => match mes.parse::<f64>() {
+                    Ok(num) => num,
+                    Err(e) => {
+                        println!("问题数据：{:?}；特别出在数字转换上", record);
+                        println!("{:?}", e);
+                        0.0
+                    }
+                },
+                None => {
+                    println!("问题数据：{:?}", record);
+                    0.0
+                }
+            },
+            Date::from_ordinal_date(record.get(5).unwrap().parse().unwrap(), 1).unwrap(),
+            record
+                .get(6)
+                .ok_or("Missing PM2.5")
+                .unwrap()
+                .parse::<f64>()
+                .unwrap(),
+            match record.get(7) {
+                Some(mes) => Date::from_ordinal_date(mes.parse().unwrap(), 1).unwrap(),
+                None => {
+                    println!("问题数据：{:?}；缺省pm10year，使用pm2.5 year填充", record);
+                    Date::from_ordinal_date(record.get(5).unwrap().parse().unwrap(), 1).unwrap()
+                }
+            },
+        );
+        insert_item(conn, &item).unwrap();
     }
 
     Ok(())
@@ -136,6 +151,7 @@ pub fn load_from_csv(conn: &Connection) -> Result<()> {
 mod tests {
     use crate::db_option::{init_database, insert_item, load_from_csv, Item};
     use rusqlite::Connection;
+    use time::Date;
 
     #[test]
     fn test_db_init() {
@@ -149,9 +165,9 @@ mod tests {
             "Sample Country",
             "Sample City",
             25.5,
-            chrono::Utc::now().naive_utc(),
+            Date::from_ordinal_date(2023, 1).unwrap(),
             15.3,
-            chrono::Utc::now().naive_utc(),
+            Date::from_ordinal_date(2023, 1).unwrap(),
         );
 
         match insert_item(&conn, &sample_item) {
