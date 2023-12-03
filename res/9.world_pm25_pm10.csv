@@ -1,0 +1,1623 @@
+Region,Subregion,Country,City/station,PM10,PM10 Year,PM 2.5,PM2.5 Year
+Afr,AfrD,Ghana,Accra,97.8,2008,49.3,2008
+Afr,AfrD,Liberia,Buchanan (rural),66,2009,9,2009
+Afr,AfrD,Liberia,Sanniquellie (rural),52,2009,10,2009
+Afr,AfrD,Mauritius,"Beau Bassin/Rose Hill, Coromandel",130.55,2011,66.10003231,
+Afr,AfrD,Mauritius,"Bramsthan, Flacq",36.55,2010,18.50598377,
+Afr,AfrD,Mauritius,Midlands,20.275,2011,10.26563121,
+Afr,AfrD,Mauritius,Port Louis,21.8,2010,11.0377687,
+Afr,AfrD,Senegal,Dakar,179,2012,40,2012
+Afr,AfrE,South Africa,"Cape Town (urban, total)",30,2011,15.62479153,
+Afr,AfrE,South Africa,Durban,26,2012,13.54148599,
+Afr,AfrE,South Africa,Highveld Priority Area Network,51.4,2012,23.6,2012
+Afr,AfrE,South Africa,Johannesburg,97.83333333,2011,50.95418126,
+Afr,AfrE,South Africa,"Tshwane (Pretoria) (total, urban)",58.83333333,2012,30.64195227,
+Afr,AfrE,South Africa,Vaal Priority Area ,61.6,2012,32.2,2012
+Afr,AfrE,South Africa,Waterberg,48,2012,11,2012
+Afr,AfrE,Unit. Rep. of Tanzania,Morogoro,35.1,2011,23.325,2011
+Amr,AmrB,Argentina,Buenos Aires,30.3,2012,16.44150256,
+Amr,AmrD,Bolivia (Plurinational State of),Cochabamba,75.04,2010,40.71849346,
+Amr,AmrD,Bolivia (Plurinational State of),La Paz,42.25,2010,22.92585752,
+Amr,AmrB,Brazil,Americana,34,2012,18.46512245,
+Amr,AmrB,Brazil,Ara?atuba,39,2012,21.18058163,
+Amr,AmrB,Brazil,Araraquara,31,2012,16.83584694,
+Amr,AmrB,Brazil,Arauc¨¢ria,30.91,2010,16.78696867,
+Amr,AmrB,Brazil,Bauru,30,2012,16.2927551,
+Amr,AmrB,Brazil,Belo Horizonte,51.7,2011,28.07784795,
+Amr,AmrB,Brazil,Betim,42.63333333,2011,23.1538153,
+Amr,AmrB,Brazil,Campinas-Centro,31,2012,16.83584694,
+Amr,AmrB,Brazil,Carapicu¨ªba,34,2012,18.46512245,
+Amr,AmrB,Brazil,Catanduva,38,2012,20.63748979,
+Amr,AmrB,Brazil,Colombo,45.7,2010,24.81929693,
+Amr,AmrB,Brazil,Curitiba,31.47857143,2010,17.09575517,
+Amr,AmrB,Brazil,Diadema,35,2012,19.00821428,
+Amr,AmrB,Brazil,Grande Vitoria,30,2010,16.2927551,
+Amr,AmrB,Brazil,Ibirit¨¦,30.7,2011,16.67291938,
+Amr,AmrB,Brazil,Jacare¨ª,26,2012,14.12038775,
+Amr,AmrB,Brazil,Jau,33,2012,17.92203061,
+Amr,AmrB,Brazil,Jundia¨ª,29,2012,15.74966326,
+Amr,AmrB,Brazil,Limeira,46,2012,24.98222449,
+Amr,AmrB,Brazil,Mar¨ªlia,21,2012,11.40492857,
+Amr,AmrB,Brazil,Mau¨¢,35,2012,19.00821428,
+Amr,AmrB,Brazil,Osasco,45,2012,24.43913265,
+Amr,AmrB,Brazil,Paul¨ªnia,32,2012,17.37893877,
+Amr,AmrB,Brazil,Piracicaba,41.5,2012,15,2012
+Amr,AmrB,Brazil,Pirassununga,31,2012,16.83584694,
+Amr,AmrB,Brazil,Presidente Prudente,22,2012,11.94802041,
+Amr,AmrB,Brazil,Ribeir?o Preto,30,2012,16.2927551,
+Amr,AmrB,Brazil,Rio Claro,50,2012,27.15459183,
+Amr,AmrB,Brazil,Rio de Janeiro,67,2010,36.38715305,
+Amr,AmrB,Brazil,Salvador,17,2010,9.232561223,
+Amr,AmrB,Brazil,Santa Gertrudes,81,2012,43.99043877,
+Amr,AmrB,Brazil,Santo Andr¨¦,35.5,2012,19.2797602,
+Amr,AmrB,Brazil,S?o Bernardo do Campo,35,2012,19.00821428,
+Amr,AmrB,Brazil,S?o Caetano do Sul,39,2012,20,2012
+Amr,AmrB,Brazil,S?o Jos¨¦ do Rio Preto,38,2012,14,2012
+Amr,AmrB,Brazil,S?o Jos¨¦ dos Campos,23,2012,12.49111224,
+Amr,AmrB,Brazil,Sao Paulo,34.55555556,2012,19,2012
+Amr,AmrB,Brazil,Socoraba,32,2012,17.37893877,
+Amr,AmrB,Brazil,Tabo?o da Serra,35,2012,19.00821428,
+Amr,AmrB,Brazil,Tatu¨ª,25,2012,13.57729592,
+Amr,AmrB,Colombia,Bogota,47.6,2012,26.62937063,
+Amr,AmrB,Colombia,Bucaramanga,39.22666667,2011,21.94498834,
+Amr,AmrB,Colombia,Caldas,58,2011,32.44755245,
+Amr,AmrB,Colombia,Cali,23,2010,12.86713287,
+Amr,AmrB,Colombia,Copacabana,36,2011,20.13986014,
+Amr,AmrB,Colombia,Giratoda,37,2011,20.6993007,
+Amr,AmrB,Colombia,Itagu¨¬,45.66666667,2011,25.54778555,
+Amr,AmrB,Colombia,Manizales,29.5,2010,16.5034965,
+Amr,AmrB,Colombia,Medellin,47.66666667,2010,26.66666667,2010
+Amr,AmrB,Colombia,Sabaneta,47,2011,26.29370629,
+Amr,AmrB,Costa Rica,Alajuela,26,2011,14.10822001,
+Amr,AmrB,Costa Rica,Bel¨¦n,33,2011,17.90658694,
+Amr,AmrB,Costa Rica,Heredia,45,2011,24.4180731,
+Amr,AmrB,Costa Rica,San Jose,27.2,2011,14.75936863,
+Amr,AmrD,Ecuador,Ambato,19.66,2012,9.488895899,
+Amr,AmrD,Ecuador,Cuenca,35.2,2012,16.98927445,
+Amr,AmrD,Ecuador,Ibarra,18.48,2012,8.919369085,
+Amr,AmrD,Ecuador,Latacunga,28.37,2012,13.69277603,
+Amr,AmrD,Ecuador,Manta,27.77,2012,13.40318612,
+Amr,AmrD,Ecuador,Milagro,66.35,2012,32.02381703,
+Amr,AmrD,Ecuador,Portoviejo,24.58,2012,11.86353312,
+Amr,AmrD,Ecuador,Quito,38.04,2012,18.36,2012
+Amr,AmrD,Ecuador,Santo Domingo,68.79,2012,33.20148265,
+Amr,AmrD,Guatemala,Guatemala city,45,2012,32.5,2012
+Amr,AmrD,Honduras,Tegucigalpa,57.76,2013,32.389,2013
+Amr,AmrB,Jamaica,Clarendon/Hayes,33.665,2011,18.2674318,
+Amr,AmrB,Jamaica,Ewarton,24.46,2011,13.27257929,
+Amr,AmrB,Jamaica,Kingston,37.3375,2011,20.26021788,
+Amr,AmrB,Mexico,Guadalajara,41.3,2011,13.44052247,
+Amr,AmrB,Mexico,Irapuato,54.9,2011,17.86645723,
+Amr,AmrB,Mexico,Le¨°n,57.6,2011,18.74513545,
+Amr,AmrB,Mexico,Mexico city,93.4,2011,24.8,2011
+Amr,AmrB,Mexico,Monterrey,85.9,2011,36,2011
+Amr,AmrB,Mexico,Puebla,32.3,2011,19.7,2011
+Amr,AmrB,Mexico,Salamanca ,60.4,2011,19.65635731,
+Amr,AmrB,Mexico,Silao,50.7,2011,16.49962443,
+Amr,AmrB,Mexico,Toluca,80,2011,33.3,2011
+Amr,AmrD,Paraguay,Asuncion ,,,18.39,2010
+Amr,AmrD,Peru,Lima,62.58813413,2011,37.94999101,2011
+Amr,AmrB,Venezuela (Bolivarian Republic of),Barcelona-Puerto La Cruz,59,2011,32.01480696,
+Amr,AmrB,Venezuela (Bolivarian Republic of),Caracas,45,2011,24.4180731,
+AmrHI,AmrA,Canada,Abbotsford,,,4.414352423,2012
+AmrHI,AmrA,Canada,Auclair,,,5.04,2010
+AmrHI,AmrA,Canada,Barrie,20.90267227,,6.96,2010
+AmrHI,AmrA,Canada,Bathurst,27.99035999,,9.32,2010
+AmrHI,AmrA,Canada,Beaverlodge,,,9.47,2010
+AmrHI,AmrA,Canada,B¨¦cancour,32.22495308,,10.73,2010
+AmrHI,AmrA,Canada,Belleville,15.88723223,,5.29,2010
+AmrHI,AmrA,Canada,Brampton,,,7.46,2010
+AmrHI,AmrA,Canada,Brandon,25.66337209,,5.55,2010
+AmrHI,AmrA,Canada,Brantford,25.73791686,,8.57,2010
+AmrHI,AmrA,Canada,Burlington,,,7.8,2010
+AmrHI,AmrA,Canada,Burnaby,10.6820769,2012,3.846705852,2012
+AmrHI,AmrA,Canada,Burns Lake,17.03283094,2012,5.057598803,2012
+AmrHI,AmrA,Canada,Calgary,53.47834933,,10.52,2010
+AmrHI,AmrA,Canada,Campbell River,9.928882311,,3.606477073,2012
+AmrHI,AmrA,Canada,Caroline,,,5.47,2010
+AmrHI,AmrA,Canada,Castlegar,12.77350698,2012,,
+AmrHI,AmrA,Canada,Chalk River (Petawawa),,,4.39,2010
+AmrHI,AmrA,Canada,Charette,,,8.6,2010
+AmrHI,AmrA,Canada,Chatham,24.65674416,,8.21,2010
+AmrHI,AmrA,Canada,Chilliwack,11.04953046,2012,4.083111863,2012
+AmrHI,AmrA,Canada,Cold Lake,,,6.6,2010
+AmrHI,AmrA,Canada,Corner Brook,20.27198819,,6.75,2010
+AmrHI,AmrA,Canada,Cornwall,22.3142033,,7.43,2010
+AmrHI,AmrA,Canada,Creston,21.27437858,,4.185730899,2012
+AmrHI,AmrA,Canada,Crofton,,,3.811939035,2012
+AmrHI,AmrA,Canada,Debolt,,,4.75,2010
+AmrHI,AmrA,Canada,Deschambault,,,7.96,2010
+AmrHI,AmrA,Canada,Drayton Valley,27.17496183,,9.36,2010
+AmrHI,AmrA,Canada,Duncan,10.64430197,,3.938391729,2012
+AmrHI,AmrA,Canada,Edmonton,30.09575669,,10.95666667,2010
+AmrHI,AmrA,Canada,Elk Island,,,5.38,2010
+AmrHI,AmrA,Canada,Ferme Neuve,,,5.76,2010
+AmrHI,AmrA,Canada,Flin Flon,20.95699237,,7.93,2010
+AmrHI,AmrA,Canada,Fort Chipewyan,,,4.94,2010
+AmrHI,AmrA,Canada,Fort Mackay,,,5.17,2010
+AmrHI,AmrA,Canada,Fort Mcmurray,17.29876326,,5.76,2010
+AmrHI,AmrA,Canada,Fort Saskatchewan,,,8.85,2010
+AmrHI,AmrA,Canada,Fredericton,12.52358382,,4.17,2010
+AmrHI,AmrA,Canada,Gatineau,,,12.08,2010
+AmrHI,AmrA,Canada,Golden,17.03832021,2012,5.805877414,2012
+AmrHI,AmrA,Canada,Grand Bend,,,7.73,2010
+AmrHI,AmrA,Canada,Grand Forks,17.9879795,,5.989489559,2012
+AmrHI,AmrA,Canada,Grande Prairie,24.28133697,,8.085,2010
+AmrHI,AmrA,Canada,Guelph,23.24521313,,7.74,2010
+AmrHI,AmrA,Canada,Hamilton,27.2545619,,9.075,2010
+AmrHI,AmrA,Canada,Hinton,29.2972973,,10.84,2010
+AmrHI,AmrA,Canada,Hope,9.639147511,2012,3.757377428,2012
+AmrHI,AmrA,Canada,Houston,15.08394495,2012,5.511084453,2012
+AmrHI,AmrA,Canada,Kelowna,13.02299768,,4.156462821,2012
+AmrHI,AmrA,Canada,Kingston,25.49765626,,8.49,2010
+AmrHI,AmrA,Canada,Kitchener,24.02606008,,8,2010
+AmrHI,AmrA,Canada,Kitimat,8.425568128,,2.867323147,2012
+AmrHI,AmrA,Canada,La Dor¨¦,,,3.81,2010
+AmrHI,AmrA,Canada,La Patrie,,,3.87,2010
+AmrHI,AmrA,Canada,La P¨ºche,,,6.08,2010
+AmrHI,AmrA,Canada,Lac-?douard,,,6.78,2010
+AmrHI,AmrA,Canada,Lamont,,,8.01,2010
+AmrHI,AmrA,Canada,Langley,9.832757542,2012,4.147319885,2012
+AmrHI,AmrA,Canada,L'Assomption,,,9.81,2010
+AmrHI,AmrA,Canada,Laval,,,11.38,2010
+AmrHI,AmrA,Canada,Lethbridge,22.34423587,,7.44,2010
+AmrHI,AmrA,Canada,London,23.33531085,,7.77,2010
+AmrHI,AmrA,Canada,Longueuil,,,8.81,2010
+AmrHI,AmrA,Canada,Medicine Hat,22.7947245,,7.59,2010
+AmrHI,AmrA,Canada,Mississauga,,,7.65,2010
+AmrHI,AmrA,Canada,Moncton,17.44892613,,5.81,2010
+AmrHI,AmrA,Canada,Montr¨¦al,34.39063544,,11.45111111,2010
+AmrHI,AmrA,Canada,Morrisburg,21.4732912,,7.15,2010
+AmrHI,AmrA,Canada,Mount Pearl,,,3.01,2010
+AmrHI,AmrA,Canada,Nanaimo,14.29595728,,4.760150347,2012
+AmrHI,AmrA,Canada,Nelson,12.09973726,2012,3.722603131,2012
+AmrHI,AmrA,Canada,Newmarket,,,7.25,2010
+AmrHI,AmrA,Canada,North Bay,15.04632012,,5.01,2010
+AmrHI,AmrA,Canada,Notre-Dame-du-Rosaire,,,4.78,2010
+AmrHI,AmrA,Canada,Oakville,,,7.42,2010
+AmrHI,AmrA,Canada,Oshawa,21.92377982,,7.3,2010
+AmrHI,AmrA,Canada,Osoyoos,16.0597764,,5.34745234,2012
+AmrHI,AmrA,Canada,Ottawa,17.02847008,,5.67,2010
+AmrHI,AmrA,Canada,Parry Sound,17.26873068,,5.75,2010
+AmrHI,AmrA,Canada,Peterborough,19.64130411,,6.54,2010
+AmrHI,AmrA,Canada,Pitt Meadow,,,4.075599078,2012
+AmrHI,AmrA,Canada,Port Alice,,,12.24,2010
+AmrHI,AmrA,Canada,Port Moody,10.53048235,2012,4.571592474,2012
+AmrHI,AmrA,Canada,Port Stanley,23.0349851,,7.67,2010
+AmrHI,AmrA,Canada,Powell River,,,2.164357682,2012
+AmrHI,AmrA,Canada,Prince Albert,16.397786,,5.46,2010
+AmrHI,AmrA,Canada,Prince George,13.94890493,2012,5.626226242,2012
+AmrHI,AmrA,Canada,Qu¨¦bec,28.02039257,,9.33,2010
+AmrHI,AmrA,Canada,Quesnel,18.29941265,2012,7.411290784,2012
+AmrHI,AmrA,Canada,Red Deer,42.49609377,,14.15,2010
+AmrHI,AmrA,Canada,Regina,32.56037912,,7.19,2010
+AmrHI,AmrA,Canada,Revelstoke,13.81498455,,4.6,2010
+AmrHI,AmrA,Canada,Richmond,,,4.47,2010
+AmrHI,AmrA,Canada,Rouyn-Noranda,22.37426845,,7.45,2010
+AmrHI,AmrA,Canada,Saguenay,,,6.09,2010
+AmrHI,AmrA,Canada,Saint John,24.15369852,,8.0425,2010
+AmrHI,AmrA,Canada,Saint-Anicet,,,10.07,2010
+AmrHI,AmrA,Canada,Saint-Jean-Sur-Richelieu,,,7.63,2010
+AmrHI,AmrA,Canada,Saint-Simon,,,7.36,2010
+AmrHI,AmrA,Canada,Sarnia,37.00013252,,12.32,2010
+AmrHI,AmrA,Canada,Saskatoon,21.9538124,,7.31,2010
+AmrHI,AmrA,Canada,Senneterre,21.86371467,,7.28,2010
+AmrHI,AmrA,Canada,Sherbrooke,20.00169502,,6.66,2010
+AmrHI,AmrA,Canada,Simcoe,,,8.44,2010
+AmrHI,AmrA,Canada,Smithers,15.11072342,2012,,
+AmrHI,AmrA,Canada,Squamish,35.43243243,,13.11,2010
+AmrHI,AmrA,Canada,St. Andrews,,,6.13,2010
+AmrHI,AmrA,Canada,St. Catharines,25.43759111,,8.47,2010
+AmrHI,AmrA,Canada,St. John's,,,8.11,2010
+AmrHI,AmrA,Canada,St. Z¨¦phirin-de-Courval,,,7.25,2010
+AmrHI,AmrA,Canada,St-Hilaire-de-Dorset,,,9.32,2010
+AmrHI,AmrA,Canada,Stukely-Sud,,,8.68,2010
+AmrHI,AmrA,Canada,Sudbury,13.8750497,,4.62,2010
+AmrHI,AmrA,Canada,Telkwa,,,3.59,2010
+AmrHI,AmrA,Canada,Terrace,13.62849489,2012,,
+AmrHI,AmrA,Canada,Thorsby,,,5.55,2010
+AmrHI,AmrA,Canada,Thunder Bay,13.39452849,,4.46,2010
+AmrHI,AmrA,Canada,Tingwick,,,9.86,2010
+AmrHI,AmrA,Canada,Tiverton,,,6.05,2010
+AmrHI,AmrA,Canada,Tomahawk,,,5.42,2010
+AmrHI,AmrA,Canada,Toronto,24.20625553,,8.06,2010
+AmrHI,AmrA,Canada,Trois-Rivi¨¨res,33.84671214,,11.27,2010
+AmrHI,AmrA,Canada,Vancouver,11.08571925,2012,4.271428142,2012
+AmrHI,AmrA,Canada,Vanderhoof,,,8.47,2010
+AmrHI,AmrA,Canada,Vernon,18.19798923,,4.62,2010
+AmrHI,AmrA,Canada,Victoria,26.56864675,,8.27,2010
+AmrHI,AmrA,Canada,Whistler,12.01303004,,4,2010
+AmrHI,AmrA,Canada,Williams Lake,15.359849,2012,,
+AmrHI,AmrA,Canada,Windsor,28.56097892,,9.51,2010
+AmrHI,AmrA,Canada,Winnipeg,14.75737226,,6.48,2010
+AmrHI,AmrB,Chile,Antofagasta,38,2009,15.5285844,
+AmrHI,AmrB,Chile,Calama,71,2009,29.01393401,
+AmrHI,AmrB,Chile,"Calera, rural",41,2008,16.75452527,
+AmrHI,AmrB,Chile,Chill¨¢n,62,2011,53,2011
+AmrHI,AmrB,Chile,Conc¨®n,37,2011,15.11993744,
+AmrHI,AmrB,Chile,Copiap¨®,65.66666667,2008,26.83448357,
+AmrHI,AmrB,Chile,Coquimbo,34,2009,13.89399657,
+AmrHI,AmrB,Chile,Iquique,35.33333333,2009,14.43885918,
+AmrHI,AmrB,Chile,La Calera,58,2009,23.70152356,
+AmrHI,AmrB,Chile,La Cruz,45,2008,18.38911311,
+AmrHI,AmrB,Chile,La Quillota,35.75,2010,14.60912875,
+AmrHI,AmrB,Chile,Los Andes,52,2010,21.24964181,
+AmrHI,AmrB,Chile,Machal¨¬,38,2008,15.5285844,
+AmrHI,AmrB,Chile,Puente Alto,59,2011,22,2011
+AmrHI,AmrB,Chile,Rancagua,79,2012,54,2012
+AmrHI,AmrB,Chile,Rengo,53,2012,21.65828877,
+AmrHI,AmrB,Chile,San Fernando,52,2012,21.24964181,
+AmrHI,AmrB,Chile,San Pedro de la Paz,46,2011,27,2011
+AmrHI,AmrB,Chile,Santiago,69.3,2011,26.27777778,2011
+AmrHI,AmrB,Chile,Talca,69,2008,44,2008
+AmrHI,AmrB,Chile,Talcahuano,61,2009,20,2009
+AmrHI,AmrB,Chile,Temuco,69.5,2011,48,2011
+AmrHI,AmrB,Chile,Tocopilla,51.5,2009,21.04531833,
+AmrHI,AmrB,Chile,Vi?a del Mar,44,2012,13,2012
+AmrHI,AmrA,United States of America,"Aberdeen, SD",12.5,,7.5,2012
+AmrHI,AmrA,United States of America,"Adrian, MI",15,,9,2012
+AmrHI,AmrA,United States of America,"Akron, OH",18.16666603,,10.89999962,2012
+AmrHI,AmrA,United States of America,"Albany, GA",17.6666673,,10.60000038,2012
+AmrHI,AmrA,United States of America,"Albany-Lebanon, OR",13.99999936,,8.399999619,2012
+AmrHI,AmrA,United States of America,"Albany-Schenectady-Troy, NY",12.66666651,,7.599999905,2012
+AmrHI,AmrA,United States of America,"Albuquerque, NM",12.33333349,,7.400000095,2012
+AmrHI,AmrA,United States of America,"Alexandria, LA",20.33333302,,12.19999981,2012
+AmrHI,AmrA,United States of America,"Allegan, MI",14.16666667,,8.5,2012
+AmrHI,AmrA,United States of America,"Allentown-Bethlehem-Easton, PA-NJ",20.66666603,,12.39999962,2012
+AmrHI,AmrA,United States of America,"Altoona, PA",19.49999968,,11.69999981,2012
+AmrHI,AmrA,United States of America,"Anchorage, AK",13.33333333,,8,2012
+AmrHI,AmrA,United States of America,"Anderson, IN",18.00000032,,10.80000019,2012
+AmrHI,AmrA,United States of America,"Ann Arbor, MI",16.49999936,,9.899999619,2012
+AmrHI,AmrA,United States of America,"Appleton, WI",14.33333397,,8.600000381,2012
+AmrHI,AmrA,United States of America,"Asheville, NC",14.8333327,,8.899999619,2012
+AmrHI,AmrA,United States of America,"Athens, OH",14.49999968,,8.699999809,2012
+AmrHI,AmrA,United States of America,"Athens, TN",15.1666673,,9.100000381,2012
+AmrHI,AmrA,United States of America,"Athens-Clarke County, GA",15.50000032,,9.300000191,2012
+AmrHI,AmrA,United States of America,"Atlanta-Sandy Springs-Marietta, GA",22.6666673,,13.60000038,2012
+AmrHI,AmrA,United States of America,"Atlantic City-Hammonton, NJ",13.66666635,,8.199999809,2012
+AmrHI,AmrA,United States of America,"Augusta-Richmond County, GA-SC",17.83333302,,10.69999981,2012
+AmrHI,AmrA,United States of America,"Augusta-Waterville, ME",14.33333397,,8.600000381,2012
+AmrHI,AmrA,United States of America,"Austin-Round Rock, TX",16.83333397,,10.10000038,2012
+AmrHI,AmrA,United States of America,"Bakersfield, CA",24.49999968,,14.69999981,2012
+AmrHI,AmrA,United States of America,"Baltimore-Towson, MD",20,,12,2012
+AmrHI,AmrA,United States of America,"Bangor, ME",12.33333349,,7.400000095,2012
+AmrHI,AmrA,United States of America,"Baraboo, WI",16.83333397,,10.10000038,2012
+AmrHI,AmrA,United States of America,"Baton Rouge, LA",18.66666635,,11.19999981,2012
+AmrHI,AmrA,United States of America,"Bay City, MI",12.83333302,,7.699999809,2012
+AmrHI,AmrA,United States of America,"Beaver Dam, WI",14.8333327,,8.899999619,2012
+AmrHI,AmrA,United States of America,"Beckley, WV",13.83333365,,8.300000191,2012
+AmrHI,AmrA,United States of America,"Bellingham, WA",6.833333174,,4.099999905,2012
+AmrHI,AmrA,United States of America,"Bennington, VT",11.16666635,,6.699999809,2012
+AmrHI,AmrA,United States of America,"Birmingham-Hoover, AL",20.1666673,,12.10000038,2012
+AmrHI,AmrA,United States of America,"Bishop, CA",10.66666683,,6.400000095,2012
+AmrHI,AmrA,United States of America,"Bismarck, ND",10.66666683,,6.400000095,2012
+AmrHI,AmrA,United States of America,"Bloomington, IN",16.66666667,,10,2012
+AmrHI,AmrA,United States of America,"Bloomington-Normal, IL",15.50000032,,9.300000191,2012
+AmrHI,AmrA,United States of America,"Boise City-Nampa, ID",17.3333327,,10.39999962,2012
+AmrHI,AmrA,United States of America,"Boone, NC",12.5,,7.5,2012
+AmrHI,AmrA,United States of America,"Boston-Cambridge-Quincy, MA-NH",15.83333333,,9.5,2012
+AmrHI,AmrA,United States of America,"Boulder, CO",11.99999968,,7.199999809,2012
+AmrHI,AmrA,United States of America,"Bowling Green, KY",17.3333327,,10.39999962,2012
+AmrHI,AmrA,United States of America,"Bradenton-Sarasota-Venice, FL",11.99999968,,7.199999809,2012
+AmrHI,AmrA,United States of America,"Brainerd, MN",7.666666508,,4.599999905,2012
+AmrHI,AmrA,United States of America,"Bremerton-Silverdale, WA",7.166666985,,4.300000191,2012
+AmrHI,AmrA,United States of America,"Bridgeport-Stamford-Norwalk, CT",15.50000032,,9.300000191,2012
+AmrHI,AmrA,United States of America,"Brigham City, UT",11.50000016,,6.900000095,2012
+AmrHI,AmrA,United States of America,"Brookings, SD",14.33333397,,8.600000381,2012
+AmrHI,AmrA,United States of America,"Brownsville-Harlingen, TX",16.33333365,,9.800000191,2012
+AmrHI,AmrA,United States of America,"Brunswick, GA",12.5,,7.5,2012
+AmrHI,AmrA,United States of America,"Buffalo-Niagara Falls, NY",15.66666603,,9.399999619,2012
+AmrHI,AmrA,United States of America,"Burlington, NC",14.16666667,,8.5,2012
+AmrHI,AmrA,United States of America,"Burlington-South Burlington, VT",11.50000016,,6.900000095,2012
+AmrHI,AmrA,United States of America,"Butte-Silver Bow, MT",18.99999936,,11.39999962,2012
+AmrHI,AmrA,United States of America,"Cadillac, MI",9.833333492,,5.900000095,2012
+AmrHI,AmrA,United States of America,"Cambridge, MD",13.16666683,,7.900000095,2012
+AmrHI,AmrA,United States of America,"Canton-Massillon, OH",20.50000032,,12.30000019,2012
+AmrHI,AmrA,United States of America,"Cape Coral-Fort Myers, FL",11.99999968,,7.199999809,2012
+AmrHI,AmrA,United States of America,"Casper, WY",9.000000159,,5.400000095,2012
+AmrHI,AmrA,United States of America,"Cedar Rapids, IA",15.83333333,,9.5,2012
+AmrHI,AmrA,United States of America,"Champaign-Urbana, IL",16.16666635,,9.699999809,2012
+AmrHI,AmrA,United States of America,"Charleston, WV",18.00000032,,10.80000019,2012
+AmrHI,AmrA,United States of America,"Charleston-North Charleston-Summerville, SC",16.00000064,,9.600000381,2012
+AmrHI,AmrA,United States of America,"Charlotte-Gastonia-Concord, NC-SC",16.00000064,,9.600000381,2012
+AmrHI,AmrA,United States of America,"Charlottesville, VA",13.00000032,,7.800000191,2012
+AmrHI,AmrA,United States of America,"Chattanooga, TN-GA",17.5,,10.5,2012
+AmrHI,AmrA,United States of America,"Cheyenne, WY",9.499999682,,5.699999809,2012
+AmrHI,AmrA,United States of America,"Chicago-Naperville-Joliet, IL-IN-WI",21.83333397,,13.10000038,2012
+AmrHI,AmrA,United States of America,"Chico, CA",11.99999968,,7.199999809,2012
+AmrHI,AmrA,United States of America,"Cincinnati-Middletown, OH-KY-IN",23.16666603,,13.89999962,2012
+AmrHI,AmrA,United States of America,"Clarksburg, WV",16.16666635,,9.699999809,2012
+AmrHI,AmrA,United States of America,"Clarksville, TN-KY",16.49999936,,9.899999619,2012
+AmrHI,AmrA,United States of America,"Clearlake, CA",6.500000159,,3.900000095,2012
+AmrHI,AmrA,United States of America,"Cleveland-Elyria-Mentor, OH",24.33333397,,14.60000038,2012
+AmrHI,AmrA,United States of America,"Clinton, IA",17.83333302,,10.69999981,2012
+AmrHI,AmrA,United States of America,"Colorado Springs, CO",11.50000016,,6.900000095,2012
+AmrHI,AmrA,United States of America,"Columbia, SC",16.99999968,,10.19999981,2012
+AmrHI,AmrA,United States of America,"Columbia, TN",13.99999936,,8.399999619,2012
+AmrHI,AmrA,United States of America,"Columbus, GA-AL",18.99999936,,11.39999962,2012
+AmrHI,AmrA,United States of America,"Columbus, OH",18.16666603,,10.89999962,2012
+AmrHI,AmrA,United States of America,"Concord, NH",15.66666603,,9.399999619,2012
+AmrHI,AmrA,United States of America,"Cookeville, TN",14.49999968,,8.699999809,2012
+AmrHI,AmrA,United States of America,"Corning, NY",11.33333365,,6.800000191,2012
+AmrHI,AmrA,United States of America,"Corpus Christi, TX",17.6666673,,10.60000038,2012
+AmrHI,AmrA,United States of America,"Dallas-Fort Worth-Arlington, TX",19.8333327,,11.89999962,2012
+AmrHI,AmrA,United States of America,"Daphne-Fairhope-Foley, AL",15.33333302,,9.199999809,2012
+AmrHI,AmrA,United States of America,"Davenport-Moline-Rock Island, IA-IL",17.5,,10.5,2012
+AmrHI,AmrA,United States of America,"Dayton, OH",18.33333333,,11,2012
+AmrHI,AmrA,United States of America,"Decatur, AL",14.8333327,,8.899999619,2012
+AmrHI,AmrA,United States of America,"Decatur, IL",16.66666667,,10,2012
+AmrHI,AmrA,United States of America,"Deltona-Daytona Beach-Ormond Beach, FL",10.66666683,,6.400000095,2012
+AmrHI,AmrA,United States of America,"Denver-Aurora-Broomfield, CO",14.33333397,,8.600000381,2012
+AmrHI,AmrA,United States of America,"Des Moines-West Des Moines, IA",15.33333302,,9.199999809,2012
+AmrHI,AmrA,United States of America,"Detroit-Warren-Livonia, MI",20.50000032,,12.30000019,2012
+AmrHI,AmrA,United States of America,"Dickinson, ND",7.333333492,,4.400000095,2012
+AmrHI,AmrA,United States of America,"Dothan, AL",14.66666698,,8.800000191,2012
+AmrHI,AmrA,United States of America,"Dover, DE",13.50000064,,8.100000381,2012
+AmrHI,AmrA,United States of America,"Duluth, MN-WI",10.50000032,,6.300000191,2012
+AmrHI,AmrA,United States of America,"Durango, CO",7.166666985,,4.300000191,2012
+AmrHI,AmrA,United States of America,"Durham, NC",13.83333365,,8.300000191,2012
+AmrHI,AmrA,United States of America,"Durham-Chapel Hill, NC",13.83333365,,8.300000191,2012
+AmrHI,AmrA,United States of America,"Dyersburg, TN",14.66666698,,8.800000191,2012
+AmrHI,AmrA,United States of America,"East Stroudsburg, PA",13.16666683,,7.900000095,2012
+AmrHI,AmrA,United States of America,"Eau Claire, WI",13.50000064,,8.100000381,2012
+AmrHI,AmrA,United States of America,"El Centro, CA",23.99999936,,14.39999962,2012
+AmrHI,AmrA,United States of America,"El Dorado, AR",18.16666603,,10.89999962,2012
+AmrHI,AmrA,United States of America,"El Paso, TX",20.50000032,,12.30000019,2012
+AmrHI,AmrA,United States of America,"Elizabethtown, KY",19.66666698,,11.80000019,2012
+AmrHI,AmrA,United States of America,"Elkhart-Goshen, IN",20.50000032,,12.30000019,2012
+AmrHI,AmrA,United States of America,"Erie, PA",18.66666635,,11.19999981,2012
+AmrHI,AmrA,United States of America,"Eugene-Springfield, OR",12.66666651,,7.599999905,2012
+AmrHI,AmrA,United States of America,"Eureka-Arcata-Fortuna, CA",11.33333365,,6.800000191,2012
+AmrHI,AmrA,United States of America,"Evansville, IN-KY",19.16666667,,11.5,2012
+AmrHI,AmrA,United States of America,"Fairbanks, AK",31.16666794,,18.70000076,2012
+AmrHI,AmrA,United States of America,"Fairmont, WV",17.16666698,,10.30000019,2012
+AmrHI,AmrA,United States of America,"Fargo, ND-MN",12.5,,7.5,2012
+AmrHI,AmrA,United States of America,"Farmington, NM",8.166666826,,4.900000095,2012
+AmrHI,AmrA,United States of America,"Fayetteville, NC",14.8333327,,8.899999619,2012
+AmrHI,AmrA,United States of America,"Fayetteville-Springdale-Rogers, AR-MO",16.00000064,,9.600000381,2012
+AmrHI,AmrA,United States of America,"Flagstaff, AZ",9.000000159,,5.400000095,2012
+AmrHI,AmrA,United States of America,"Flint, MI",13.33333333,,8,2012
+AmrHI,AmrA,United States of America,"Florence, SC",15.33333302,,9.199999809,2012
+AmrHI,AmrA,United States of America,"Florence-Muscle Shoals, AL",14.66666698,,8.800000191,2012
+AmrHI,AmrA,United States of America,"Fort Collins-Loveland, CO",12.16666698,,7.300000191,2012
+AmrHI,AmrA,United States of America,"Fort Madison-Keokuk, IA-MO",18.33333333,,11,2012
+AmrHI,AmrA,United States of America,"Fort Payne, AL",15.33333302,,9.199999809,2012
+AmrHI,AmrA,United States of America,"Fort Smith, AR-OK",16.99999968,,10.19999981,2012
+AmrHI,AmrA,United States of America,"Fort Wayne, IN",23.33333333,,14,2012
+AmrHI,AmrA,United States of America,"Fresno, CA",74.33333079,,44.59999847,2012
+AmrHI,AmrA,United States of America,"Gadsden, AL",16.00000064,,9.600000381,2012
+AmrHI,AmrA,United States of America,"Gainesville, FL",11.99999968,,7.199999809,2012
+AmrHI,AmrA,United States of America,"Gainesville, GA",15.50000032,,9.300000191,2012
+AmrHI,AmrA,United States of America,"Gettysburg, PA",18.33333333,,11,2012
+AmrHI,AmrA,United States of America,"Gillette, WY",13.16666683,,7.900000095,2012
+AmrHI,AmrA,United States of America,"Goldsboro, NC",21.16666635,,12.69999981,2012
+AmrHI,AmrA,United States of America,"Grand Island, NE",12.66666651,,7.599999905,2012
+AmrHI,AmrA,United States of America,"Grand Junction, CO",12.16666698,,7.300000191,2012
+AmrHI,AmrA,United States of America,"Grand Rapids-Wyoming, MI",16.00000064,,9.600000381,2012
+AmrHI,AmrA,United States of America,"Grants Pass, OR",11.50000016,,6.900000095,2012
+AmrHI,AmrA,United States of America,"Greeley, CO",13.16666683,,7.900000095,2012
+AmrHI,AmrA,United States of America,"Green Bay, WI",16.00000064,,9.600000381,2012
+AmrHI,AmrA,United States of America,"Greensboro-High Point, NC",14.16666667,,8.5,2012
+AmrHI,AmrA,United States of America,"Greenville, NC",13.16666683,,7.900000095,2012
+AmrHI,AmrA,United States of America,"Greenville-Mauldin-Easley, SC",16.49999936,,9.899999619,2012
+AmrHI,AmrA,United States of America,"Grenada, MS",15.66666603,,9.399999619,2012
+AmrHI,AmrA,United States of America,"Gulfport-Biloxi, MS",16.49999936,,9.899999619,2012
+AmrHI,AmrA,United States of America,"Hagerstown-Martinsburg, MD-WV",18.83333365,,11.30000019,2012
+AmrHI,AmrA,United States of America,"Hammond, LA",15.1666673,,9.100000381,2012
+AmrHI,AmrA,United States of America,"Hanford-Corcoran, CA",27.5,,16.5,2012
+AmrHI,AmrA,United States of America,"Harriman, TN",21.66666667,,13,2012
+AmrHI,AmrA,United States of America,"Harrisburg-Carlisle, PA",20.1666673,,12.10000038,2012
+AmrHI,AmrA,United States of America,"Harrisonburg, VA",14.66666698,,8.800000191,2012
+AmrHI,AmrA,United States of America,"Hartford-West Hartford-East Hartford, CT",14.16666667,,8.5,2012
+AmrHI,AmrA,United States of America,"Hattiesburg, MS",18.33333333,,11,2012
+AmrHI,AmrA,United States of America,"Helena, MT",15.66666603,,9.399999619,2012
+AmrHI,AmrA,United States of America,"Helena-West Helena, AR",15.50000032,,9.300000191,2012
+AmrHI,AmrA,United States of America,"Hickory-Lenoir-Morganton, NC",15.83333333,,9.5,2012
+AmrHI,AmrA,United States of America,"Hilo, HI",27.00000127,,16.20000076,2012
+AmrHI,AmrA,United States of America,"Hobbs, NM",13.00000032,,7.800000191,2012
+AmrHI,AmrA,United States of America,"Holland-Grand Haven, MI",15,,9,2012
+AmrHI,AmrA,United States of America,"Homosassa Springs, FL",11.33333365,,6.800000191,2012
+AmrHI,AmrA,United States of America,"Honolulu, HI",11.83333317,,7.099999905,2012
+AmrHI,AmrA,United States of America,"Hot Springs, AR",18.00000032,,10.80000019,2012
+AmrHI,AmrA,United States of America,"Houma-Bayou Cane-Thibodaux, LA",12.83333302,,7.699999809,2012
+AmrHI,AmrA,United States of America,"Houston-Sugar Land-Baytown, TX",21.16666635,,12.69999981,2012
+AmrHI,AmrA,United States of America,"Huntington-Ashland, WV-KY-OH",18.83333365,,11.30000019,2012
+AmrHI,AmrA,United States of America,"Huntsville, AL",15.50000032,,9.300000191,2012
+AmrHI,AmrA,United States of America,"Indianapolis-Carmel, IN",24.8333327,,14.89999962,2012
+AmrHI,AmrA,United States of America,"Iowa City, IA",16.00000064,,9.600000381,2012
+AmrHI,AmrA,United States of America,"Jackson, MS",18.66666635,,11.19999981,2012
+AmrHI,AmrA,United States of America,"Jackson, TN",14.66666698,,8.800000191,2012
+AmrHI,AmrA,United States of America,"Jackson, WY-ID",10.50000032,,6.300000191,2012
+AmrHI,AmrA,United States of America,"Jacksonville, FL",13.33333333,,8,2012
+AmrHI,AmrA,United States of America,"Jamestown-Dunkirk-Fredonia, NY",12.66666651,,7.599999905,2012
+AmrHI,AmrA,United States of America,"Jasper, IN",18.00000032,,10.80000019,2012
+AmrHI,AmrA,United States of America,"Johnstown, PA",19.33333397,,11.60000038,2012
+AmrHI,AmrA,United States of America,"Juneau, AK",10.66666683,,6.400000095,2012
+AmrHI,AmrA,United States of America,"Kahului-Wailuku, HI",10.66666683,,6.400000095,2012
+AmrHI,AmrA,United States of America,"Kalamazoo-Portage, MI",16.66666667,,10,2012
+AmrHI,AmrA,United States of America,"Kalispell, MT",13.00000032,,7.800000191,2012
+AmrHI,AmrA,United States of America,"Kansas City, MO-KS",24.49999968,,14.69999981,2012
+AmrHI,AmrA,United States of America,"Kapaa, HI",11.33333365,,6.800000191,2012
+AmrHI,AmrA,United States of America,"Keene, NH",15.83333333,,9.5,2012
+AmrHI,AmrA,United States of America,"Kingsport-Bristol-Bristol, TN-VA",15,,9,2012
+AmrHI,AmrA,United States of America,"Kinston, NC",12.66666651,,7.599999905,2012
+AmrHI,AmrA,United States of America,"Klamath Falls, OR",17.83333302,,10.69999981,2012
+AmrHI,AmrA,United States of America,"Knoxville, TN",18.33333333,,11,2012
+AmrHI,AmrA,United States of America,"Kokomo, IN",15.83333333,,9.5,2012
+AmrHI,AmrA,United States of America,"La Crosse, WI-MN",13.66666635,,8.199999809,2012
+AmrHI,AmrA,United States of America,"Laconia, NH",10.99999984,,6.599999905,2012
+AmrHI,AmrA,United States of America,"Lafayette, IN",23.50000064,,14.10000038,2012
+AmrHI,AmrA,United States of America,"Lafayette, LA",17.5,,10.5,2012
+AmrHI,AmrA,United States of America,"Lake Charles, LA",13.83333365,,8.300000191,2012
+AmrHI,AmrA,United States of America,"Lake Havasu City-Kingman, AZ",6.333333254,,3.799999952,2012
+AmrHI,AmrA,United States of America,"Lakeland-Winter Haven, FL",12.83333302,,7.699999809,2012
+AmrHI,AmrA,United States of America,"Lancaster, PA",21.16666635,,12.69999981,2012
+AmrHI,AmrA,United States of America,"Lansing-East Lansing, MI",14.33333397,,8.600000381,2012
+AmrHI,AmrA,United States of America,"Laramie, WY",9.333333174,,5.599999905,2012
+AmrHI,AmrA,United States of America,"Las Cruces, NM",25.33333302,,15.19999981,2012
+AmrHI,AmrA,United States of America,"Las Vegas-Paradise, NV",20.33333302,,12.19999981,2012
+AmrHI,AmrA,United States of America,"Laurel, MS",17.6666673,,10.60000038,2012
+AmrHI,AmrA,United States of America,"Lawrenceburg, TN",13.50000064,,8.100000381,2012
+AmrHI,AmrA,United States of America,"Lebanon, NH-VT",11.33333365,,6.800000191,2012
+AmrHI,AmrA,United States of America,"Lebanon, PA",23.83333365,,14.30000019,2012
+AmrHI,AmrA,United States of America,"Lewiston-Auburn, ME",12.5,,7.5,2012
+AmrHI,AmrA,United States of America,"Lexington-Fayette, KY",16.33333365,,9.800000191,2012
+AmrHI,AmrA,United States of America,"Lima, OH",16.66666667,,10,2012
+AmrHI,AmrA,United States of America,"Lincoln, NE",14.49999968,,8.699999809,2012
+AmrHI,AmrA,United States of America,"Little Rock-North Little Rock-Conway, AR",19.33333397,,11.60000038,2012
+AmrHI,AmrA,United States of America,"Logan, UT-ID",14.8333327,,8.899999619,2012
+AmrHI,AmrA,United States of America,"Los Angeles-Long Beach-Santa Ana, CA",33.33333333,,20,2012
+AmrHI,AmrA,United States of America,"Louisville/Jefferson County, KY-IN",22.16666698,,13.30000019,2012
+AmrHI,AmrA,United States of America,"Lumberton, NC",14.49999968,,8.699999809,2012
+AmrHI,AmrA,United States of America,"Lynchburg, VA",12.66666651,,7.599999905,2012
+AmrHI,AmrA,United States of America,"Macon, GA",19.16666667,,11.5,2012
+AmrHI,AmrA,United States of America,"Madera, CA",26.66666667,,16,2012
+AmrHI,AmrA,United States of America,"Madison, WI",15.66666603,,9.399999619,2012
+AmrHI,AmrA,United States of America,"Manchester-Nashua, NH",13.66666635,,8.199999809,2012
+AmrHI,AmrA,United States of America,"Marshall, MN",12.16666698,,7.300000191,2012
+AmrHI,AmrA,United States of America,"Marshall, TX",17.3333327,,10.39999962,2012
+AmrHI,AmrA,United States of America,"McAlester, OK",18.50000064,,11.10000038,2012
+AmrHI,AmrA,United States of America,"McAllen-Edinburg-Mission, TX",17.5,,10.5,2012
+AmrHI,AmrA,United States of America,"Medford, OR",15.1666673,,9.100000381,2012
+AmrHI,AmrA,United States of America,"Memphis, TN-MS-AR",16.66666667,,10,2012
+AmrHI,AmrA,United States of America,"Merced, CA",18.33333333,,11,2012
+AmrHI,AmrA,United States of America,"Meridian, MS",17.3333327,,10.39999962,2012
+AmrHI,AmrA,United States of America,"Miami-Fort Lauderdale-Pompano Beach, FL",13.83333365,,8.300000191,2012
+AmrHI,AmrA,United States of America,"Michigan City-La Porte, IN",16.16666635,,9.699999809,2012
+AmrHI,AmrA,United States of America,"Middlesborough, KY",17.16666698,,10.30000019,2012
+AmrHI,AmrA,United States of America,"Milwaukee-Waukesha-West Allis, WI",18.16666603,,10.89999962,2012
+AmrHI,AmrA,United States of America,"Minneapolis-St. Paul-Bloomington, MN-WI",17.3333327,,10.39999962,2012
+AmrHI,AmrA,United States of America,"Missoula, MT",20.50000032,,12.30000019,2012
+AmrHI,AmrA,United States of America,"Mobile, AL",14.66666698,,8.800000191,2012
+AmrHI,AmrA,United States of America,"Modesto, CA",24.66666698,,14.80000019,2012
+AmrHI,AmrA,United States of America,"Monroe, LA",21.83333397,,13.10000038,2012
+AmrHI,AmrA,United States of America,"Monroe, MI",15.66666603,,9.399999619,2012
+AmrHI,AmrA,United States of America,"Montgomery, AL",18.00000032,,10.80000019,2012
+AmrHI,AmrA,United States of America,"Morgantown, WV",14.8333327,,8.899999619,2012
+AmrHI,AmrA,United States of America,"Mount Vernon, IL",14.16666667,,8.5,2012
+AmrHI,AmrA,United States of America,"Muncie, IN",16.49999936,,9.899999619,2012
+AmrHI,AmrA,United States of America,"Muscatine, IA",18.16666603,,10.89999962,2012
+AmrHI,AmrA,United States of America,"Muskegon-Norton Shores, MI",14.66666698,,8.800000191,2012
+AmrHI,AmrA,United States of America,"Napa, CA",22.83333302,,13.69999981,2012
+AmrHI,AmrA,United States of America,"Nashville-Davidson--Murfreesboro--Franklin, TN",17.16666698,,10.30000019,2012
+AmrHI,AmrA,United States of America,"New Castle, IN",15.1666673,,9.100000381,2012
+AmrHI,AmrA,United States of America,"New Haven-Milford, CT",15.33333302,,9.199999809,2012
+AmrHI,AmrA,United States of America,"New Orleans-Metairie-Kenner, LA",21.49999936,,12.89999962,2012
+AmrHI,AmrA,United States of America,"New York-Northern New Jersey-Long Island, NY-NJ-PA",23.16666603,,13.89999962,2012
+AmrHI,AmrA,United States of America,"Niles-Benton Harbor, MI",14.49999968,,8.699999809,2012
+AmrHI,AmrA,United States of America,"Nogales, AZ",16.00000064,,9.600000381,2012
+AmrHI,AmrA,United States of America,"Norwich-New London, CT",12.66666651,,7.599999905,2012
+AmrHI,AmrA,United States of America,"Ogden-Clearfield, UT",15,,9,2012
+AmrHI,AmrA,United States of America,"Oklahoma City, OK",16.33333365,,9.800000191,2012
+AmrHI,AmrA,United States of America,"Omaha-Council Bluffs, NE-IA",19.49999968,,11.69999981,2012
+AmrHI,AmrA,United States of America,"Orlando-Kissimmee, FL",12.16666698,,7.300000191,2012
+AmrHI,AmrA,United States of America,"Owensboro, KY",18.00000032,,10.80000019,2012
+AmrHI,AmrA,United States of America,"Oxnard-Thousand Oaks-Ventura, CA",16.00000064,,9.600000381,2012
+AmrHI,AmrA,United States of America,"Paducah, KY-IL",16.66666667,,10,2012
+AmrHI,AmrA,United States of America,"Palm Bay-Melbourne-Titusville, FL",10,,6,2012
+AmrHI,AmrA,United States of America,"Parkersburg-Marietta-Vienna, WV-OH",17.16666698,,10.30000019,2012
+AmrHI,AmrA,United States of America,"Pascagoula, MS",15.33333302,,9.199999809,2012
+AmrHI,AmrA,United States of America,"Pendleton-Hermiston, OR",11.99999968,,7.199999809,2012
+AmrHI,AmrA,United States of America,"Pensacola-Ferry Pass-Brent, FL",13.99999936,,8.399999619,2012
+AmrHI,AmrA,United States of America,"Peoria, IL",16.33333365,,9.800000191,2012
+AmrHI,AmrA,United States of America,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",27.5,,16.5,2012
+AmrHI,AmrA,United States of America,"Phoenix-Mesa-Scottsdale, AZ",26.00000064,,15.60000038,2012
+AmrHI,AmrA,United States of America,"Pittsburgh, PA",24.8333327,,14.89999962,2012
+AmrHI,AmrA,United States of America,"Pittsfield, MA",14.16666667,,8.5,2012
+AmrHI,AmrA,United States of America,"Platteville, WI",15.1666673,,9.100000381,2012
+AmrHI,AmrA,United States of America,"Pocatello, ID",15.33333302,,9.199999809,2012
+AmrHI,AmrA,United States of America,"Ponca City, OK",17.16666698,,10.30000019,2012
+AmrHI,AmrA,United States of America,"Portland-South Portland-Biddeford, ME",15.1666673,,9.100000381,2012
+AmrHI,AmrA,United States of America,"Portland-Vancouver-Beaverton, OR-WA",12.16666698,,7.300000191,2012
+AmrHI,AmrA,United States of America,"Portsmouth, OH",16.49999936,,9.899999619,2012
+AmrHI,AmrA,United States of America,"Poughkeepsie-Newburgh-Middletown, NY",13.00000032,,7.800000191,2012
+AmrHI,AmrA,United States of America,"Prescott, AZ",7.333333492,,4.400000095,2012
+AmrHI,AmrA,United States of America,"Prineville, OR",14.49999968,,8.699999809,2012
+AmrHI,AmrA,United States of America,"Providence-New Bedford-Fall River, RI-MA",17.83333302,,10.69999981,2012
+AmrHI,AmrA,United States of America,"Provo-Orem, UT",13.50000064,,8.100000381,2012
+AmrHI,AmrA,United States of America,"Pueblo, CO",10.99999984,,6.599999905,2012
+AmrHI,AmrA,United States of America,"Quincy, IL-MO",16.16666635,,9.699999809,2012
+AmrHI,AmrA,United States of America,"Raleigh-Cary, NC",15.66666603,,9.399999619,2012
+AmrHI,AmrA,United States of America,"Rapid City, SD",10.50000032,,6.300000191,2012
+AmrHI,AmrA,United States of America,"Reading, PA",18.66666635,,11.19999981,2012
+AmrHI,AmrA,United States of America,"Red Bluff, CA",13.99999936,,8.399999619,2012
+AmrHI,AmrA,United States of America,"Redding, CA",9.833333492,,5.900000095,2012
+AmrHI,AmrA,United States of America,"Reno-Sparks, NV",15.1666673,,9.100000381,2012
+AmrHI,AmrA,United States of America,"Richmond, VA",14.8333327,,8.899999619,2012
+AmrHI,AmrA,United States of America,"Richmond-Berea, KY",14.66666698,,8.800000191,2012
+AmrHI,AmrA,United States of America,"Riverside-San Bernardino-Ontario, CA",34.16666667,,20.5,2012
+AmrHI,AmrA,United States of America,"Riverton, WY",13.00000032,,7.800000191,2012
+AmrHI,AmrA,United States of America,"Roanoke, VA",15.1666673,,9.100000381,2012
+AmrHI,AmrA,United States of America,"Rochester, MN",13.00000032,,7.800000191,2012
+AmrHI,AmrA,United States of America,"Rochester, NY",14.49999968,,8.699999809,2012
+AmrHI,AmrA,United States of America,"Rock Springs, WY",12.66666651,,7.599999905,2012
+AmrHI,AmrA,United States of America,"Rockford, IL",15.50000032,,9.300000191,2012
+AmrHI,AmrA,United States of America,"Rocky Mount, NC",13.16666683,,7.900000095,2012
+AmrHI,AmrA,United States of America,"Rome, GA",17.6666673,,10.60000038,2012
+AmrHI,AmrA,United States of America,"Russellville, AR",14.49999968,,8.699999809,2012
+AmrHI,AmrA,United States of America,"Rutland, VT",15,,9,2012
+AmrHI,AmrA,United States of America,"Sacramento--Arden-Arcade--Roseville, CA",15.33333302,,9.199999809,2012
+AmrHI,AmrA,United States of America,"Salinas, CA",10,,6,2012
+AmrHI,AmrA,United States of America,"Salisbury, NC",15.50000032,,9.300000191,2012
+AmrHI,AmrA,United States of America,"Salt Lake City, UT",14.8333327,,8.899999619,2012
+AmrHI,AmrA,United States of America,"San Antonio, TX",14.49999968,,8.699999809,2012
+AmrHI,AmrA,United States of America,"San Diego-Carlsbad-San Marcos, CA",23.66666635,,14.19999981,2012
+AmrHI,AmrA,United States of America,"San Francisco-Oakland-Fremont, CA",15.83333333,,9.5,2012
+AmrHI,AmrA,United States of America,"San Jose-Sunnyvale-Santa Clara, CA",15.83333333,,9.5,2012
+AmrHI,AmrA,United States of America,"San Luis Obispo-Paso Robles, CA",16.00000064,,9.600000381,2012
+AmrHI,AmrA,United States of America,"Santa Barbara-Santa Maria-Goleta, CA",14.16666667,,8.5,2012
+AmrHI,AmrA,United States of America,"Santa Cruz-Watsonville, CA",9.666666985,,5.800000191,2012
+AmrHI,AmrA,United States of America,"Santa Fe, NM",8.000000318,,4.800000191,2012
+AmrHI,AmrA,United States of America,"Santa Rosa-Petaluma, CA",13.66666635,,8.199999809,2012
+AmrHI,AmrA,United States of America,"Sault Ste. Marie, MI",13.66666635,,8.199999809,2012
+AmrHI,AmrA,United States of America,"Savannah, GA",16.66666667,,10,2012
+AmrHI,AmrA,United States of America,"Scottsbluff, NE",9.333333174,,5.599999905,2012
+AmrHI,AmrA,United States of America,"Scranton--Wilkes-Barre, PA",13.83333365,,8.300000191,2012
+AmrHI,AmrA,United States of America,"Seaford, DE",13.66666635,,8.199999809,2012
+AmrHI,AmrA,United States of America,"Seattle-Tacoma-Bellevue, WA",16.16666635,,9.699999809,2012
+AmrHI,AmrA,United States of America,"Sheridan, WY",13.83333365,,8.300000191,2012
+AmrHI,AmrA,United States of America,"Shreveport-Bossier City, LA",25.83333333,,15.5,2012
+AmrHI,AmrA,United States of America,"Sierra Vista-Douglas, AZ",11.16666635,,6.699999809,2012
+AmrHI,AmrA,United States of America,"Sioux City, IA-NE-SD",16.49999936,,9.899999619,2012
+AmrHI,AmrA,United States of America,"Sioux Falls, SD",14.49999968,,8.699999809,2012
+AmrHI,AmrA,United States of America,"Somerset, KY",16.00000064,,9.600000381,2012
+AmrHI,AmrA,United States of America,"South Bend-Mishawaka, IN-MI",21.33333365,,12.80000019,2012
+AmrHI,AmrA,United States of America,"Spartanburg, SC",16.33333365,,9.800000191,2012
+AmrHI,AmrA,United States of America,"Spokane, WA",12.33333349,,7.400000095,2012
+AmrHI,AmrA,United States of America,"Springfield, IL",15.83333333,,9.5,2012
+AmrHI,AmrA,United States of America,"Springfield, MA",15,,9,2012
+AmrHI,AmrA,United States of America,"Springfield, MO",16.83333397,,10.10000038,2012
+AmrHI,AmrA,United States of America,"Springfield, OH",17.3333327,,10.39999962,2012
+AmrHI,AmrA,United States of America,"St. Cloud, MN",13.99999936,,8.399999619,2012
+AmrHI,AmrA,United States of America,"St. George, UT",10.99999984,,6.599999905,2012
+AmrHI,AmrA,United States of America,"St. Joseph, MO-KS",20.33333302,,12.19999981,2012
+AmrHI,AmrA,United States of America,"St. Louis, MO-IL",21.66666667,,13,2012
+AmrHI,AmrA,United States of America,"State College, PA",18.50000064,,11.10000038,2012
+AmrHI,AmrA,United States of America,"Stockton, CA",20.66666603,,12.39999962,2012
+AmrHI,AmrA,United States of America,"Syracuse, NY",11.99999968,,7.199999809,2012
+AmrHI,AmrA,United States of America,"Talladega-Sylacauga, AL",17.16666698,,10.30000019,2012
+AmrHI,AmrA,United States of America,"Tallahassee, FL",14.49999968,,8.699999809,2012
+AmrHI,AmrA,United States of America,"Tampa-St. Petersburg-Clearwater, FL",12.66666651,,7.599999905,2012
+AmrHI,AmrA,United States of America,"Terre Haute, IN",19.33333397,,11.60000038,2012
+AmrHI,AmrA,United States of America,"Texarkana, TX-Texarkana, AR",17.5,,10.5,2012
+AmrHI,AmrA,United States of America,"Thomasville-Lexington, NC",17.3333327,,10.39999962,2012
+AmrHI,AmrA,United States of America,"Toledo, OH",16.83333397,,10.10000038,2012
+AmrHI,AmrA,United States of America,"Topeka, KS",14.33333397,,8.600000381,2012
+AmrHI,AmrA,United States of America,"Torrington, CT",9.166666667,,5.5,2012
+AmrHI,AmrA,United States of America,"Trenton-Ewing, NJ",14.66666698,,8.800000191,2012
+AmrHI,AmrA,United States of America,"Truckee-Grass Valley, CA",10.33333302,,6.199999809,2012
+AmrHI,AmrA,United States of America,"Tucson, AZ",9.833333492,,5.900000095,2012
+AmrHI,AmrA,United States of America,"Tulsa, OK",16.16666635,,9.699999809,2012
+AmrHI,AmrA,United States of America,"Tupelo, MS",15.83333333,,9.5,2012
+AmrHI,AmrA,United States of America,"Tuscaloosa, AL",15.66666603,,9.399999619,2012
+AmrHI,AmrA,United States of America,"Ukiah, CA",12.16666698,,7.300000191,2012
+AmrHI,AmrA,United States of America,"Valdosta, GA",14.33333397,,8.600000381,2012
+AmrHI,AmrA,United States of America,"Vallejo-Fairfield, CA",15,,9,2012
+AmrHI,AmrA,United States of America,"Vernal, UT",11.66666667,,7,2012
+AmrHI,AmrA,United States of America,"Virginia Beach-Norfolk-Newport News, VA-NC",13.83333365,,8.300000191,2012
+AmrHI,AmrA,United States of America,"Visalia-Porterville, CA",24.66666698,,14.80000019,2012
+AmrHI,AmrA,United States of America,"Warner Robins, GA",15.83333333,,9.5,2012
+AmrHI,AmrA,United States of America,"Washington-Arlington-Alexandria, DC-VA-MD-WV",19.33333397,,11.60000038,2012
+AmrHI,AmrA,United States of America,"Waterloo-Cedar Falls, IA",16.49999936,,9.899999619,2012
+AmrHI,AmrA,United States of America,"Watertown, SD",18.33333333,,11,2012
+AmrHI,AmrA,United States of America,"Weirton-Steubenville, WV-OH",19.66666698,,11.80000019,2012
+AmrHI,AmrA,United States of America,"Wenatchee, WA",16.99999968,,10.19999981,2012
+AmrHI,AmrA,United States of America,"Wheeling, WV-OH",19.66666698,,11.80000019,2012
+AmrHI,AmrA,United States of America,"Wichita, KS",15.50000032,,9.300000191,2012
+AmrHI,AmrA,United States of America,"Wilmington, NC",14.49999968,,8.699999809,2012
+AmrHI,AmrA,United States of America,"Winchester, VA-WV",16.33333365,,9.800000191,2012
+AmrHI,AmrA,United States of America,"Winston-Salem, NC",14.8333327,,8.899999619,2012
+AmrHI,AmrA,United States of America,"Worcester, MA",14.66666698,,8.800000191,2012
+AmrHI,AmrA,United States of America,"Yakima, WA",17.3333327,,10.39999962,2012
+AmrHI,AmrA,United States of America,"York-Hanover, PA",20.1666673,,12.10000038,2012
+AmrHI,AmrA,United States of America,"Youngstown-Warren-Boardman, OH-PA",23.33333333,,14,2012
+AmrHI,AmrA,United States of America,"Yuba City, CA",11.50000016,,6.900000095,2012
+AmrHI,AmrA,United States of America,"Yuma, AZ",14.16666667,,8.5,2012
+AmrHI,AmrB,Uruguay,Montevideo,27,2012,18,2012
+Emr,EmrD,Afghanistan,Kabul - ISAF HQ,260,2009,86,2009
+Emr,EmrD,Afghanistan,Mazar-e Sharif - Camp Northern Lights ,334,2009,68,2009
+Emr,EmrD,Egypt,Cairo,135,2011,73.45588235,
+Emr,EmrD,Egypt,Delta cities,140,2011,76.17647059,
+Emr,EmrB,Iran,Ahvaz,319.6,2010,69.5,2010
+Emr,EmrB,Iran,Khoramabad,120.96,2010,101.9,2010
+Emr,EmrB,Iran,Tehran,90.58,2010,30.29845259,
+Emr,EmrB,Jordan,Amman,127.9,2010,48.05697655,
+Emr,EmrB,Lebanon,Beirut,63.36666667,2010,20.36666667,2010
+Emr,EmrB,Lebanon,Tripoli,81,2008,29,2008
+Emr,EmrD,Pakistan,Karachi ,273,2010,117.3333333,2010
+Emr,EmrD,Pakistan,Lahore - Johar Town,198,2010,68,2010
+Emr,EmrD,Pakistan,Peshwar,540,2010,111,2010
+Emr,EmrD,Pakistan,Rawalpindi,448,2010,107,2010
+EmrHI,EmrB,Bahrain,Hamad Town,317.88,2012,65.52,2012
+EmrHI,EmrB,Bahrain,Hidd,178.38,2012,41.44,2012
+EmrHI,EmrB,Bahrain,Ma'ameer,257.35,2012,63.95,2012
+EmrHI,EmrB,Bahrain,Nabih Saleh,244.07,2012,58.2,2012
+EmrHI,EmrB,Bahrain,Ras Hayan,250.42,2012,43.92,2012
+EmrHI,EmrB,Oman,Muscat,82.0825,2008-2010,30.8415698,
+EmrHI,EmrB,Qatar,Al Wakrah,152,2012,85.1,2012
+EmrHI,EmrB,Qatar,Doha,167.6333333,2012,93.43333333,2012
+EmrHI,EmrB,Saudi Arabia,Jeddah,87.3,2011,28.4,2011
+EmrHI,EmrB,United Arab Emirates,Abu Dhabi,170,2011,63.87557478,
+EmrHI,EmrB,United Arab Emirates,Al Ain - Urban/ Residential -Al Ain School,138,2011,51.85193717,
+EmrHI,EmrB,United Arab Emirates,Al Gharbia - Biya Zayed,171,2011,64.25131345,
+Eur,EurC,Belarus,Gomel,19,2008,12.75242766,
+Eur,EurC,Belarus,Minsk ,26,2008,17.45069048,
+Eur,EurC,Belarus,Mogilev,20,2008,13.42360806,
+Eur,EurC,Belarus,Zhlobin,26,2008,17.45069048,
+Eur,EurB,Bosnia and Herzegovina,Sarajevo,48.468,2010,32.53077177,
+Eur,EurB,Bulgaria,Blagoevgrad,49.121,2011,32.6773593,
+Eur,EurB,Bulgaria,Burgas,36.26366667,2011,24.12411932,
+Eur,EurB,Bulgaria,Dobrich,58.669,2011,39.02909128,
+Eur,EurB,Bulgaria,Haskovo,53.08,2011,35.31105295,
+Eur,EurB,Bulgaria,Pernik,73.554,2011,52.376,2011
+Eur,EurB,Bulgaria,Pleven,52.253,2011,34.76089769,
+Eur,EurB,Bulgaria,Plovdiv,63.654,2011,41.694,2011
+Eur,EurB,Bulgaria,Ruse,45.218,2011,30.378,2011
+Eur,EurB,Bulgaria,Shumen,47.498,2011,31.5976713,
+Eur,EurB,Bulgaria,Sofia,65.22466667,2011,44.638,2011
+Eur,EurB,Bulgaria,Stara Zagora,41.711,2011,21.011,2011
+Eur,EurB,Bulgaria,Veliko Tarnovo,50.002,2011,32.797,2011
+Eur,EurB,Bulgaria,Vratsa,39.326,2011,26.16131251,
+Eur,EurC,Hungary,Budapest,33.23766667,2011,26.754,2011
+Eur,EurC,Hungary,Debrecen,32.929,2011,26.22828653,
+Eur,EurC,Hungary,Gy?r,34.031,2011,23.329,2011
+Eur,EurB,Romania,Alba Iulia,26.088,2011,17.50975435,
+Eur,EurB,Romania,Arad,,,21.859,2011
+Eur,EurB,Romania,Bacau,,,12.989,2011
+Eur,EurB,Romania,Baia Mare,32.908,2009,19.706,2011
+Eur,EurB,Romania,Botosani,,,17.884,2011
+Eur,EurB,Romania,Bucuresti,39.536,2011,24.45,2010
+Eur,EurB,Romania,Galati,18.2835,2008,12.2715269,
+Eur,EurB,Romania,Iasi,42.123,2008,23.378,2011
+Eur,EurB,Romania,Pitesti,,,19.679,2011
+Eur,EurB,Romania,Ploiesti,,,20.708,2011
+Eur,EurB,Romania,Satu Mare,,,24.892,2011
+Eur,EurB,Romania,Suceava,,,20.54,2011
+Eur,EurB,Romania,T?rgu Mures,,,24.983,2011
+Eur,EurB,Romania,Timisoara,,,13.181,2011
+Eur,EurB,Serbia,Beograd,50.87733333,2011,34.14786909,
+Eur,EurB,Serbia,Nis,66.951,2011,44.93619916,
+Eur,EurB,Turkey,Adana,51.375,2011,34.4818932,
+Eur,EurB,Turkey,Adiyaman,83.142,2011,55.80328107,
+Eur,EurB,Turkey,Afyon,111.92,2011,75.1185107,
+Eur,EurB,Turkey,Agri,51.126,2011,34.31476928,
+Eur,EurB,Turkey,Aksaray,69.913,2011,46.92423551,
+Eur,EurB,Turkey,Amasya,42.964,2011,28.83659483,
+Eur,EurB,Turkey,Ankara,58.06033333,2011,38.96895792,
+Eur,EurB,Turkey,Antalya,62.895,2011,42.21389145,
+Eur,EurB,Turkey,Artvin,34.079,2011,22.87315695,
+Eur,EurB,Turkey,Aydin,95.34,2011,63.99033962,
+Eur,EurB,Turkey,Balikesir,78.841,2011,52.91653415,
+Eur,EurB,Turkey,Bartin,71.12,2011,47.73435026,
+Eur,EurB,Turkey,Batman,114.795,2011,77.04815436,
+Eur,EurB,Turkey,Bayburt,47.622,2011,31.96295315,
+Eur,EurB,Turkey,Bilecik,58.055,2011,38.9653783,
+Eur,EurB,Turkey,Bingol,30.266,2011,20.31394608,
+Eur,EurB,Turkey,Bolu,58.754,2011,39.4345334,
+Eur,EurB,Turkey,Burdur,85.905,2011,57.65775252,
+Eur,EurB,Turkey,Canakkale,22.045,2011,14.79617198,
+Eur,EurB,Turkey,Cankiri,45.783,2011,30.72865239,
+Eur,EurB,Turkey,Corum,74.524,2011,50.01904835,
+Eur,EurB,Turkey,Denizli,86.6995,2011,58.19100535,
+Eur,EurB,Turkey,Diyarbakir,77.029,2011,51.70035526,
+Eur,EurB,Turkey,Duzce,92.73,2011,62.23855877,
+Eur,EurB,Turkey,Edirne,78.733,2011,52.84404667,
+Eur,EurB,Turkey,Elazig,45.727,2011,30.69106629,
+Eur,EurB,Turkey,Erzincan,40.271,2011,27.02910601,
+Eur,EurB,Turkey,Erzurum,59.493,2011,39.93053572,
+Eur,EurB,Turkey,Eskisehir,30.826,2011,20.6898071,
+Eur,EurB,Turkey,Gaziantep,101.057,2011,67.82747798,
+Eur,EurB,Turkey,Giresun,21.026,2011,14.11223915,
+Eur,EurB,Turkey,Gumshane,59.292,2011,39.79562845,
+Eur,EurB,Turkey,Hakkari,70.648,2010,47.41755311,
+Eur,EurB,Turkey,Igdir,134.752,2010,90.44290166,
+Eur,EurB,Turkey,Isparta,100.144,2011,67.21469028,
+Eur,EurB,Turkey,Istanbul,48.3379,2011,32.4434512,
+Eur,EurB,Turkey,Izmir,53.931,2011,36.19743031,
+Eur,EurB,Turkey,Kahramanmaras,70.893,2010,47.58199231,
+Eur,EurB,Turkey,Karabuk,51.627,2011,34.65103067,
+Eur,EurB,Turkey,Kars,53.596,2011,35.97258488,
+Eur,EurB,Turkey,Kastamonu,34.363,2011,23.06377219,
+Eur,EurB,Turkey,Kayseri,52.548,2011,35.26918782,
+Eur,EurB,Turkey,Kilis,70.699,2011,47.45178331,
+Eur,EurB,Turkey,Kirikkale,60.466,2011,40.58359425,
+Eur,EurB,Turkey,Kirklareli,57.589,2011,38.65260823,
+Eur,EurB,Turkey,Kirsehir,69.34,2010,46.53964914,
+Eur,EurB,Turkey,Konya,62.805,2011,42.15348521,
+Eur,EurB,Turkey,Kutahya,79.5,2011,53.35884204,
+Eur,EurB,Turkey,Malatya,72.297,2011,48.52432959,
+Eur,EurB,Turkey,Manisa,78.097,2010,52.41717593,
+Eur,EurB,Turkey,Mardin,89.152,2010,59.83707529,
+Eur,EurB,Turkey,Mugla,74.134,2011,49.757288,
+Eur,EurB,Turkey,Mus,33.463,2011,22.45970983,
+Eur,EurB,Turkey,Nevsehir,55.295,2011,37.11292038,
+Eur,EurB,Turkey,Nigde,75.896,2011,50.93990787,
+Eur,EurB,Turkey,Ordu,60.906,2011,40.87891362,
+Eur,EurB,Turkey,Osmaniye,109.243,2011,73.32176076,
+Eur,EurB,Turkey,Rize,28.579,2011,19.18166474,
+Eur,EurB,Turkey,Samsun,39.084,2011,26.23241487,
+Eur,EurB,Turkey,Siirt,101.457,2011,68.09595015,
+Eur,EurB,Turkey,Sinop,37.912,2010,25.44579144,
+Eur,EurB,Turkey,Sirnak,46.351,2011,31.10988286,
+Eur,EurB,Turkey,Sivas,48.008,2011,32.22202879,
+Eur,EurB,Turkey,Tokat,31.467,2011,21.12003374,
+Eur,EurB,Turkey,Trabzon,63.5255,2011,42.63707069,
+Eur,EurB,Turkey,Tunceli,40.609,2011,27.25596499,
+Eur,EurB,Turkey,Usak,72.216,2011,48.46996398,
+Eur,EurB,Turkey,Van,74.499,2011,50.00226884,
+Eur,EurB,Turkey,Yalova,41.172,2011,27.63383955,
+Eur,EurB,Turkey,Yozgat,57.866,2011,38.8385252,
+Eur,EurB,Turkey,Zonguldak,87.35,2011,58.6276082,
+EurHI,EurA,Andorra,Escaldes-Engordany,23.74,2010,15.93382277,
+EurHI,EurA,Austria,Graz,29.58833333,2011,22.731,2011
+EurHI,EurA,Austria,Klagenfurt,25.305,2011,19.351,2011
+EurHI,EurA,Austria,Linz,25.951,2011,19.1445,2011
+EurHI,EurA,Austria,Salzburg,21.48,2011,14.329,2011
+EurHI,EurA,Austria,Wien,27.2725,2011,18.7775,2011
+EurHI,EurA,Belgium,Antwerpen,28.827,2011,19.547,2011
+EurHI,EurA,Belgium,Brugge,,,18.637,2011
+EurHI,EurA,Belgium,Bruxelles / Brussel,26.516,2011,18.1115,2011
+EurHI,EurA,Belgium,Charleroi,22.478,2011,16.604,2011
+EurHI,EurA,Belgium,Gent,30.713,2011,20.738,2011
+EurHI,EurA,Belgium,Li¨¨ge,25.3574,2011,13.863,2011
+EurHI,EurA,Belgium,Mons,21.242,2011,12.662,2011
+EurHI,EurA,Cyprus,Lefkosia,,,23.927,2011
+EurHI,EurA,Cyprus,Lemesos,35.738,2011,22.253,2011
+EurHI,EurA,Czech Republic,Brno,26.7525,2011,20.5935,2011
+EurHI,EurA,Czech Republic,Cesk¨¦ Budejovice,24.134,2011,20.405,2011
+EurHI,EurA,Czech Republic,Chomutov-Jirkov,29.946,2011,22.23295643,
+EurHI,EurA,Czech Republic,Havirov,43.925,2011,32.61145433,
+EurHI,EurA,Czech Republic,Jihlava,22.187,2011,17.842,2011
+EurHI,EurA,Czech Republic,Karvina,44.625,2011,33.13115878,
+EurHI,EurA,Czech Republic,Kladno,30.673,2011,14.434,2011
+EurHI,EurA,Czech Republic,Liberec,28.723,2011,22.169,2011
+EurHI,EurA,Czech Republic,Most,38.057,2011,24.659,2011
+EurHI,EurA,Czech Republic,Ostrava,39.09233333,2011,29.9995,2011
+EurHI,EurA,Czech Republic,Pardubice,30.017,2011,22.339,2011
+EurHI,EurA,Czech Republic,Plzen,25.17175,2011,25.239,2011
+EurHI,EurA,Czech Republic,Praha,26.17833333,2011,18.61933333,2011
+EurHI,EurA,Czech Republic,?st¨ª nad Labem,31.311,2011,18.085,2011
+EurHI,EurA,Czech Republic,Zl¨ªn,31.225,2011,24.137,2011
+EurHI,EurA,Denmark,Aalborg,,,16.806,2011
+EurHI,EurA,Denmark,?rhus,,,15.032,2011
+EurHI,EurA,Denmark,K?benhavn,12.147,2010,16.609,2011
+EurHI,EurC,Estonia,Narva,15.225,2010,7.341,2011
+EurHI,EurC,Estonia,Tallinn,12.5095,2011,6.691,2011
+EurHI,EurC,Estonia,Tartu,17.352,2010,7.566,2011
+EurHI,EurA,Finland,Helsinki,13.0655,2011,7.514,2011
+EurHI,EurA,Finland,Jyv?skyl?,10.704,2011,6.185055489,
+EurHI,EurA,Finland,Kuopio,11.451,2011,6.798,2011
+EurHI,EurA,Finland,Oulu,10.661,2011,6.160208947,
+EurHI,EurA,Finland,Tampere,,,7.36,2011
+EurHI,EurA,France,Aix-en-Provence,22.883,2011,18.575,2011
+EurHI,EurA,France,Ajaccio,22.0815,2011,15.88679352,
+EurHI,EurA,France,Albi,24.989,2011,17.97862841,
+EurHI,EurA,France,Amiens,25.0225,2011,21.68,2011
+EurHI,EurA,France,Angers,22.651,2011,15.636,2011
+EurHI,EurA,France,Angoul¨ºme,20.241,2011,12.704,2011
+EurHI,EurA,France,Annecy,32.3605,2011,25.019,2011
+EurHI,EurA,France,Antibes,30.249,2011,21.76299695,
+EurHI,EurA,France,Avignon,29.489,2011,21.21620605,
+EurHI,EurA,France,Bayonne,22.51,2011,11.261,2011
+EurHI,EurA,France,Beauvais,24.569,2011,17.67645449,
+EurHI,EurA,France,Besan?on,22.285,2011,17.02,2011
+EurHI,EurA,France,Bordeaux,24.09333333,2011,15.4105,2011
+EurHI,EurA,France,Boulogne-sur-mer,24.898,2011,17.91315739,
+EurHI,EurA,France,Bourges,22.101,2011,15.90082302,
+EurHI,EurA,France,Brest,22.542,2011,16.21810563,
+EurHI,EurA,France,Brive-la-Gaillarde,21.285,2011,15.31374227,
+EurHI,EurA,France,Caen,21.2565,2011,11.57,2011
+EurHI,EurA,France,Calais,26.7935,2011,13.801,2011
+EurHI,EurA,France,Cergy-Pontoise,25.453,2011,18.31245864,
+EurHI,EurA,France,Ch?lons-en-Champagne,24.608,2011,17.7045135,
+EurHI,EurA,France,Chalon-sur-Sa?ne,23.683,2011,17.03901143,
+EurHI,EurA,France,Chambery,24.3115,2011,19.056,2011
+EurHI,EurA,France,Charleville-M¨¦zi¨¨res,25.034,2011,18.01100418,
+EurHI,EurA,France,Chartres,21.382,2011,15.38353006,
+EurHI,EurA,France,Ch?teauroux,21.889,2011,15.74829714,
+EurHI,EurA,France,Cherbourg,18.722,2011,13.46976194,
+EurHI,EurA,France,Clermont-Ferrand,21.55533333,2011,15.5305,2011
+EurHI,EurA,France,Colmar,23.452,2011,16.87281578,
+EurHI,EurA,France,Creil,28.881,2011,17.209,2011
+EurHI,EurA,France,Dijon,19.10766667,2011,14.872,2011
+EurHI,EurA,France,Douai,28.199,2011,25.68,2011
+EurHI,EurA,France,Dunkerque,23.1365,2011,18.0485,2011
+EurHI,EurA,France,Evreux,22.717,2011,16.34401143,
+EurHI,EurA,France,Fort-de-France,29.10066667,2011,13.753,2011
+EurHI,EurA,France,Gen¨¨ve (CH) - Annemasse,31.886,2011,22.94075575,
+EurHI,EurA,France,Grenoble,25.8255,2011,21.846,2011
+EurHI,EurA,France,La Rochelle,21.446,2011,12.271,2011
+EurHI,EurA,France,Le Havre,24.972,2011,17.847,2011
+EurHI,EurA,France,Le Mans,20.008,2011,15.511,2011
+EurHI,EurA,France,Lens - Li¨¦vin,23.758,2010,17.09297106,
+EurHI,EurA,France,Lille,28.5,2011,22.256,2011
+EurHI,EurA,France,Limoges,18.523,2011,13.564,2011
+EurHI,EurA,France,Lorient,23.838,2011,17.15052799,
+EurHI,EurA,France,Lyon,28.776,2011,20.139,2011
+EurHI,EurA,France,Marne la Vall¨¦e,23.293,2011,16.75842136,
+EurHI,EurA,France,Marseille,34.822,2011,17.059,2011
+EurHI,EurA,France,Martigues,32.3605,2011,23.28214032,
+EurHI,EurA,France,Melun,23.743,2010,17.08217913,
+EurHI,EurA,France,Metz,20.14266667,2011,20.896,2011
+EurHI,EurA,France,Montbeliard,26.923,2011,21.156,2011
+EurHI,EurA,France,Montpellier,22.996,2011,17.854,2011
+EurHI,EurA,France,Mulhouse,23.4675,2011,18.082,2011
+EurHI,EurA,France,Nancy,20.799,2011,16.631,2011
+EurHI,EurA,France,Nantes,21.2825,2011,15.734,2011
+EurHI,EurA,France,Nice,25.722,2011,18.50599383,
+EurHI,EurA,France,Nimes,23.739,2011,14.813,2011
+EurHI,EurA,France,Niort,19.505,2011,12.806,2011
+EurHI,EurA,France,Orl¨¦ans,22.7775,2011,17.917,2011
+EurHI,EurA,France,Paris,23.5985,2011,16.97821691,
+EurHI,EurA,France,Pau,22.553,2011,14.091,2011
+EurHI,EurA,France,Perpignan,20.3655,2011,17.374,2011
+EurHI,EurA,France,Poitiers,18.975,2011,16.643,2011
+EurHI,EurA,France,Quimper,21.879,2011,15.74110252,
+EurHI,EurA,France,Reims,28.905,2011,21.573,2011
+EurHI,EurA,France,Rennes,20.713,2011,14.90221018,
+EurHI,EurA,France,Roanne,26.967,2011,19.40172365,
+EurHI,EurA,France,Rouen,25.469,2011,18.29,2011
+EurHI,EurA,France,Saint Denis,14.125,2011,10.1623965,
+EurHI,EurA,France,Saint-Brieuc,21.605,2011,15.54397002,
+EurHI,EurA,France,Saint-Etienne,23.9475,2011,18.617,2011
+EurHI,EurA,France,Saint-Nazaire,23.567,2011,12.111,2011
+EurHI,EurA,France,Saint-Quentin,28.51,2011,21.506,2011
+EurHI,EurA,France,Strasbourg,25.112,2011,19.457,2011
+EurHI,EurA,France,Tarbes,23.265,2011,16.73827644,
+EurHI,EurA,France,Toulon,28.078,2011,17.425,2011
+EurHI,EurA,France,Toulouse,25.69,2011,19.655,2011
+EurHI,EurA,France,Tours,23.364,2011,17.016,2011
+EurHI,EurA,France,Troyes,25.8125,2011,18.945,2011
+EurHI,EurA,France,Valence,26.282,2011,19.448,2011
+EurHI,EurA,France,Valenciennes,26.097,2011,20.249,2011
+EurHI,EurA,Germany,Aachen,19.019,2011,14.72,2011
+EurHI,EurA,Germany,Aschaffenburg,20.968,2011,15.65432144,
+EurHI,EurA,Germany,Augsburg,22.1105,2011,15.425,2011
+EurHI,EurA,Germany,Bamberg,21.209,2011,15.83424759,
+EurHI,EurA,Germany,Berlin,24.484,2011,20.1765,2011
+EurHI,EurA,Germany,Bielefeld,23.4515,2011,19.839,2011
+EurHI,EurA,Germany,Bonn,22.81,2011,17.02952461,
+EurHI,EurA,Germany,Brandenburg an der Havel,23.195,2011,18.917,2011
+EurHI,EurA,Germany,Braunschweig,20.045,2011,14.96522669,
+EurHI,EurA,Germany,Bremen,20.612,2011,15.595,2011
+EurHI,EurA,Germany,Bremerhaven,21.12,2011,15.76780183,
+EurHI,EurA,Germany,Chemnitz,22.097,2011,16.49721198,
+EurHI,EurA,Germany,Cottbus,25.175,2011,20.0615,2011
+EurHI,EurA,Germany,Darmstadt,15.806,2011,11.8004676,
+EurHI,EurA,Germany,Dortmund,25.7055,2011,19.31,2011
+EurHI,EurA,Germany,Dresden,21.518,2011,17.138,2011
+EurHI,EurA,Germany,Duisburg,24.5045,2011,18.294607,
+EurHI,EurA,Germany,D¨¹sseldorf,25.163,2011,16.9655,2011
+EurHI,EurA,Germany,Erlangen,19.783,2011,14.76962233,
+EurHI,EurA,Germany,Essen,29.686,2011,18.8505,2011
+EurHI,EurA,Germany,Frankfurt (Oder),26.077,2011,19.46860645,
+EurHI,EurA,Germany,Frankfurt am Main,21.741,2011,17.568,2011
+EurHI,EurA,Germany,Freiburg im Breisgau,16.674,2011,12.485,2011
+EurHI,EurA,Germany,Fulda,18.851,2011,14.07380835,
+EurHI,EurA,Germany,Gelsenkirchen,26.271,2011,19.796,2011
+EurHI,EurA,Germany,Gera,25.202,2011,18.81534762,
+EurHI,EurA,Germany,G?ttingen,15.229,2011,12.135,2011
+EurHI,EurA,Germany,Halle an der Saale,24.878,2011,19.005,2011
+EurHI,EurA,Germany,Hamburg,25.431,2011,16.94833333,2011
+EurHI,EurA,Germany,Hannover,19.708,2011,14.519,2011
+EurHI,EurA,Germany,Ingolstadt,23.095,2011,17.24230034,
+EurHI,EurA,Germany,Jena,24.196,2011,18.0642866,
+EurHI,EurA,Germany,Kaiserslautern,,,14.071,2011
+EurHI,EurA,Germany,Karlsruhe,19.788,2011,14.599,2011
+EurHI,EurA,Germany,Kassel,23.144,2011,15.693,2011
+EurHI,EurA,Germany,Kempten (Allg?u),17.792,2011,13.28317851,
+EurHI,EurA,Germany,Kiel,22.65,2011,16.91007156,
+EurHI,EurA,Germany,K?ln,22.137,2011,17.451,2011
+EurHI,EurA,Germany,Konstanz,20.315,2011,15.1668037,
+EurHI,EurA,Germany,Krefeld,26.09,2011,19.47831201,
+EurHI,EurA,Germany,Leipzig,21.609,2011,15.545,2011
+EurHI,EurA,Germany,Leverkusen,20.871,2011,15.58190303,
+EurHI,EurA,Germany,L¨¹beck,22.332,2011,15.3495,2011
+EurHI,EurA,Germany,Ludwigsburg,18.042,2011,13.46982389,
+EurHI,EurA,Germany,Ludwigshafen am Rhein,22.409,2011,16.73014542,
+EurHI,EurA,Germany,L¨¹neburger Heide,17.233,2011,12.86583944,
+EurHI,EurA,Germany,Magdeburg,24.716,2011,18.38,2011
+EurHI,EurA,Germany,Mainz,21.007,2011,17.09,2011
+EurHI,EurA,Germany,Mannheim,23.57,2011,17.59692657,
+EurHI,EurA,Germany,Marburg,18.003,2011,13.44070721,
+EurHI,EurA,Germany,M?nchengladbach,23.335,2011,17.42147991,
+EurHI,EurA,Germany,M¨¹lheim a.d.Ruhr,25.337,2011,18.91613612,
+EurHI,EurA,Germany,M¨¹nchen,21.188,2011,14.206,2011
+EurHI,EurA,Germany,M¨¹nster,22.686,2011,18.204,2011
+EurHI,EurA,Germany,Neu-Ulm,23.264,2011,17.36847262,
+EurHI,EurA,Germany,N¨¹rnberg,,,16.67,2011
+EurHI,EurA,Germany,Offenburg,20.7435,2010,15.48671388,
+EurHI,EurA,Germany,Osnabr¨¹ck,19.332,2011,15.134,2011
+EurHI,EurA,Germany,Potsdam,22.445,2011,18.1425,2011
+EurHI,EurA,Germany,Reutlingen,18.371,2011,13.71544921,
+EurHI,EurA,Germany,Rostock,23.171,2011,15.341,2011
+EurHI,EurA,Germany,Saarbr¨¹cken,22.0675,2011,13.497,2011
+EurHI,EurA,Germany,Solingen,19.917,2011,14.86966425,
+EurHI,EurA,Germany,Stuttgart,21.283,2011,14.618,2011
+EurHI,EurA,Germany,T¨¹bingen,18.629,2011,13.205,2011
+EurHI,EurA,Germany,Ulm,21.491,2011,14.577,2011
+EurHI,EurA,Germany,Villingen-Schwenningen,17.641,2011,13.1704447,
+EurHI,EurA,Germany,Weimar,20.88,2011,15.58862226,
+EurHI,EurA,Germany,Wiesbaden,19.565,2011,16.755,2011
+EurHI,EurA,Germany,Wolfsburg,18.204,2011,13.5907701,
+EurHI,EurA,Germany,Wuppertal,22.703,2011,15.616,2011
+EurHI,EurA,Greece,Agia Paraskevi,23.021,2011,17.023,2011
+EurHI,EurA,Greece,Ioannina,,,26.662,2011
+EurHI,EurA,Greece,Koropi,21.633,2011,15.99663607,
+EurHI,EurA,Greece,Lykovrisi,29.747,2011,21.99657621,
+EurHI,EurA,Greece,Panorama,37.072,2011,27.41308614,
+EurHI,EurA,Iceland,Hafnarfjordur,8.683,2011,4.255,2011
+EurHI,EurA,Iceland,Kopavogur,9.613,2011,5.2,2011
+EurHI,EurA,Iceland,Reykjavik,10.821,2010,10.053,2010
+EurHI,EurA,Ireland,Cork,16.649,2011,8.332646442,
+EurHI,EurA,Ireland,Dublin,17.8825,2011,8.95,2011
+EurHI,EurA,Israel ,Ashdod,62,2010,22,2010
+EurHI,EurA,Israel ,Ashkelon,74,2010,27,2010
+EurHI,EurA,Israel ,Beersheva,68,2010,45.28382393,
+EurHI,EurA,Israel ,Beit Shemesh ,68,2010,45.28382393,
+EurHI,EurA,Israel ,Gadera,,,26,2010
+EurHI,EurA,Israel ,Hadera,46,2010,25,2010
+EurHI,EurA,Israel ,Haifa (Metropolitan),45.33333333,2010,22.25,2010
+EurHI,EurA,Israel ,Heftzibah (Gilboa-Beit Shean Valley -northeastern Israel ),53,2010,,
+EurHI,EurA,Israel ,Karmei Yosef - (rural) Gezer Region,66,2010,,
+EurHI,EurA,Israel ,Kibbutz Erez (southwestern Israel),68,2010,,
+EurHI,EurA,Israel ,Kibbutz Sde Yoav (rural southern Israel),,,24,2010
+EurHI,EurA,Israel ,Kiryat Malachi,,,23,2010
+EurHI,EurA,Israel ,Modi'in,69.5,2010,46.28273181,
+EurHI,EurA,Israel ,Rehovot,63,2010,41.95413099,
+EurHI,EurA,Israel ,Sderot,,,24,2010
+EurHI,EurA,Israel ,Tel Aviv (Metropolitan),66.75,2010,23,2010
+EurHI,EurA,Italy,Ancona,33.385,2011,20.059,2011
+EurHI,EurA,Italy,Asti,36.517,2011,25.53164389,
+EurHI,EurA,Italy,Bari,26.1425,2011,18.27808967,
+EurHI,EurA,Italy,Bergamo,39.015,2011,30.935,2011
+EurHI,EurA,Italy,Biella,27.658,2011,19.337684,
+EurHI,EurA,Italy,Bologna,29.6195,2011,19.936,2011
+EurHI,EurA,Italy,Brescia,42.846,2011,31.989,2011
+EurHI,EurA,Italy,Cagliari,19.749,2011,13.80793699,
+EurHI,EurA,Italy,Campobasso,21.709,2011,15.17831304,
+EurHI,EurA,Italy,Catania,23.585,2010,16.48995868,
+EurHI,EurA,Italy,Cosenza,,,13.797,2011
+EurHI,EurA,Italy,Cremona,42.335,2011,29.5994234,
+EurHI,EurA,Italy,Ferrara,34.31,2011,23.293,2011
+EurHI,EurA,Italy,Firenze,24.6495,2011,16.073,2011
+EurHI,EurA,Italy,Forli,28.614,2011,19.782,2011
+EurHI,EurA,Italy,Genova,22.539,2011,15.75862534,
+EurHI,EurA,Italy,La Spezia,23.239,2011,15.708,2011
+EurHI,EurA,Italy,Lecco,30.87,2011,23.669,2011
+EurHI,EurA,Italy,Livorno,13.905,2011,9,2011
+EurHI,EurA,Italy,Milano,37.431,2010,33.183,2011
+EurHI,EurA,Italy,Modena,38.4055,2011,24.571,2011
+EurHI,EurA,Italy,Monza,47.408,2011,39.011,2011
+EurHI,EurA,Italy,Napoli,39.03,2008,27.28866175,
+EurHI,EurA,Italy,Novara,31.859,2011,26.047,2011
+EurHI,EurA,Italy,Padova,44.345,2011,34.21,2011
+EurHI,EurA,Italy,Parma,36.426,2011,22.04,2011
+EurHI,EurA,Italy,Pavia,29.183,2011,20.40392047,
+EurHI,EurA,Italy,Perugia,22.957,2011,15.419,2011
+EurHI,EurA,Italy,Pesaro,34.632,2011,19.608,2011
+EurHI,EurA,Italy,Pescara,36.674,2011,25.64141381,
+EurHI,EurA,Italy,Piacenza,35.154,2011,26.433,2011
+EurHI,EurA,Italy,Pisa,26.224,2011,17.766,2011
+EurHI,EurA,Italy,Prato,29.775,2011,22.358,2011
+EurHI,EurA,Italy,Ravenna,35.804,2011,25.03313465,
+EurHI,EurA,Italy,Reggio nell Emilia,34.6395,2011,24.514,2011
+EurHI,EurA,Italy,Rimini,35.109,2011,24.751,2011
+EurHI,EurA,Italy,Roma,32.0862,2011,20.87433333,2011
+EurHI,EurA,Italy,Savona,21.445,2011,14.99373178,
+EurHI,EurA,Italy,Taranto,23.724,2011,16.58714351,
+EurHI,EurA,Italy,Torino,43.838,2011,34.88,2011
+EurHI,EurA,Italy,Trento,25.593,2011,18.613,2011
+EurHI,EurA,Italy,Treviso,43.017,2011,30.421,2011
+EurHI,EurA,Italy,Udine,28.399,2011,21.489,2011
+EurHI,EurA,Italy,Varese,19.672,2009,13.75410079,
+EurHI,EurA,Italy,Venezia,38.4915,2011,30.035,2011
+EurHI,EurA,Italy,Verona,35.194,2011,27.627,2011
+EurHI,EurA,Italy,Viareggio,30.45,2011,21.2897707,
+EurHI,EurA,Italy,Vicenza,44.288,2011,30.869,2011
+EurHI,EurC,Latvia,Riga,22.953,2011,15.833,2009
+EurHI,EurC,Lithuania,Paneve?ys,18.531,2011,12.43764405,
+EurHI,EurC,Lithuania,Vilnius,23.489,2011,15.76535649,
+EurHI,EurA,Luxembourg,Luxembourg,18.249,2011,13.716,2011
+EurHI,EurA,Malta,Zejtun,,,12.092,2011
+EurHI,EurA,Monaco,Monaco,19.5,2010,13.08801786,
+EurHI,EurA,Netherlands,Amsterdam,24.7185,2011,17.8565,2011
+EurHI,EurA,Netherlands,Breda,24.964,2010,16.415,2011
+EurHI,EurA,Netherlands,Dordrecht,26.176,2011,17.49452505,
+EurHI,EurA,Netherlands,Enschede,,,14.718,2011
+EurHI,EurA,Netherlands,Groningen,,,14.363,2011
+EurHI,EurA,Netherlands,Heerlen,22.959,2011,15.34446824,
+EurHI,EurA,Netherlands,Nijmegen,,,16.229,2011
+EurHI,EurA,Netherlands,Rotterdam,24.978,2011,16.81,2011
+EurHI,EurA,Netherlands,s' Gravenhage,26.603,2011,15.628,2011
+EurHI,EurA,Netherlands,Schiedam,,,18.115,2011
+EurHI,EurA,Netherlands,Utrecht,,,17.513,2011
+EurHI,EurA,Netherlands,Zaanstad,26.915,2011,16.961,2011
+EurHI,EurA,Norway,Bergen,19.004,2010,8.536,2011
+EurHI,EurA,Norway,Oslo,22.886,2011,12.51919921,
+EurHI,EurA,Norway,Stavanger,16.586,2011,8.274,2011
+EurHI,EurA,Norway,Trondheim,13.786,2011,8.03,2011
+EurHI,EurB,Poland,Bialystok,33.359,2011,27.066,2011
+EurHI,EurB,Poland,Bielsko-Biala,43.338,2011,33.771,2011
+EurHI,EurB,Poland,Bydgoszcz,18.646,2010,17.381,2011
+EurHI,EurB,Poland,Chelm,31.011,2011,21.876,2011
+EurHI,EurB,Poland,Czestochowa,42.864,2011,36.951,2011
+EurHI,EurB,Poland,Elblag,24.701,2011,17.744,2011
+EurHI,EurB,Poland,Gdansk,24.29883333,2011,18.2115,2011
+EurHI,EurB,Poland,Gdynia,18.086,2011,12.94629882,
+EurHI,EurB,Poland,Gliwice,52.296,2011,34.245,2011
+EurHI,EurB,Poland,Gorz¨®w Wielkopolski,32.6705,2011,17.326,2011
+EurHI,EurB,Poland,Grudziadz,22.639,2010,16.20542182,
+EurHI,EurB,Poland,Inowroclaw,17.214,2010,12.32210483,
+EurHI,EurB,Poland,Jelenia G¨®ra,49.088,2011,35.13811327,
+EurHI,EurB,Poland,Kalisz,34.401,2011,33.469,2011
+EurHI,EurB,Poland,Katowice,49.994,2011,30.595,2011
+EurHI,EurB,Poland,Kielce,41.81,2011,34.95,2011
+EurHI,EurB,Poland,Koszalin,25.89,2011,12.716,2011
+EurHI,EurB,Poland,Krak¨®w,58.822,2011,40.232,2011
+EurHI,EurB,Poland,Legnica,41.912,2011,29.866,2011
+EurHI,EurB,Poland,Leszno,26.492,2011,18.96347166,
+EurHI,EurB,Poland,L¨®dz,39.6585,2011,24.812,2011
+EurHI,EurB,Poland,Lomza,34.156,2011,33.024,2011
+EurHI,EurB,Poland,Lublin,32.3945,2011,23.216,2011
+EurHI,EurB,Poland,Nowy Sacz,54.788,2011,39.818,2011
+EurHI,EurB,Poland,Olsztyn,28.351,2011,19.698,2011
+EurHI,EurB,Poland,Opole,38.884,2011,24.941,2011
+EurHI,EurB,Poland,Ostrow Wielkopolski,39.466,2011,28.25050477,
+EurHI,EurB,Poland,Pabianice,55.647,2010,39.83316878,
+EurHI,EurB,Poland,Pila,32.621,2011,23.35072508,
+EurHI,EurB,Poland,Piotrkow Trybunalski,43.5365,2011,37.306,2011
+EurHI,EurB,Poland,Plock,34.864,2011,24.95630665,
+EurHI,EurB,Poland,Poznan,39.086,2011,27.484,2011
+EurHI,EurB,Poland,Przemysl,44.9925,2011,36.749,2011
+EurHI,EurB,Poland,Radom,39.1175,2011,26.2,2011
+EurHI,EurB,Poland,Rybnik,59.293,2011,42.44304413,
+EurHI,EurB,Poland,Rzesz¨®w,42.171,2011,29.594,2011
+EurHI,EurB,Poland,Slupsk,26.92333333,2011,19.27222817,
+EurHI,EurB,Poland,Sosnowiec,59.523,2011,42.60768245,
+EurHI,EurB,Poland,Suwalki,21.36,2011,15.28988957,
+EurHI,EurB,Poland,Swidnica,38.809,2011,27.78021182,
+EurHI,EurB,Poland,Szczecin,27.989,2011,15.915,2011
+EurHI,EurB,Poland,Tarn¨®w,40.733,2011,31.431,2011
+EurHI,EurB,Poland,Tczew,21.548,2011,15.42446351,
+EurHI,EurB,Poland,Torun,34.854,2010,23.479,2011
+EurHI,EurB,Poland,Tychy,47.572,2011,34.05293197,
+EurHI,EurB,Poland,Walbrzych,,,21.76,2011
+EurHI,EurB,Poland,Warszawa,34.6835,2011,26.2075,2011
+EurHI,EurB,Poland,Wloclawek,24.434,2010,19.354,2011
+EurHI,EurB,Poland,Wroclaw,47.871,2010,28.252,2011
+EurHI,EurB,Poland,Zabrze,55.801,2011,39.94340488,
+EurHI,EurB,Poland,Zamosc,36.287,2011,25.715,2011
+EurHI,EurB,Poland,Zgierz,38.357,2011,29.925,2011
+EurHI,EurB,Poland,Zielona G¨®ra,22.688,2011,19.797,2011
+EurHI,EurB,Poland,Zory,42.574,2011,32.969,2011
+EurHI,EurA,Portugal,Almada,26.441,2011,11.948,2011
+EurHI,EurA,Portugal,Amadora,20.884,2011,8.863127641,
+EurHI,EurA,Portugal,Barreiro,25.419,2011,10.78777253,
+EurHI,EurA,Portugal,Braga,20.274,2011,8.604244866,
+EurHI,EurA,Portugal,Faro,22.398,2011,9.505666199,
+EurHI,EurA,Portugal,Funchal,29.063,2010,12.33427881,
+EurHI,EurA,Portugal,Lisboa,27.922,2011,14.087,2011
+EurHI,EurA,Portugal,Matosinhos,30.153,2011,12.79687262,
+EurHI,EurA,Portugal,Paredes,33.697,2011,14.3009391,
+EurHI,EurA,Portugal,Porto,31.192,2011,6.83,2011
+EurHI,EurA,Portugal,Seixal,38.899,2011,16.50865745,
+EurHI,EurA,Portugal,Set¨²bal,25.667,2011,10.89302323,
+EurHI,EurA,Portugal,Valongo,32.629,2011,13.84768204,
+EurHI,EurA,Portugal,Vila Franca de Xira,19.553,2011,8.298253915,
+EurHI,EurA,Portugal,Vila Nova de Gaia,25.674,2011,10.89599402,
+EurHI,EurC,Russian Federation,Moscow,32.5,2009,21.8133631,
+EurHI,EurB,Slovakia,Bansk¨¢ Bystrica,,,22.483,2011
+EurHI,EurB,Slovakia,Bratislava,30.783,2011,22.80838371,
+EurHI,EurB,Slovakia,Ko?ice,34.161,2011,25.887,2011
+EurHI,EurB,Slovakia,Nitra,37.904,2011,24.038,2011
+EurHI,EurB,Slovakia,Trenc¨ªn,40.227,2011,28.892,2011
+EurHI,EurB,Slovakia,?ilina,39.123,2011,31.867,2011
+EurHI,EurA,Slovenia,Ljubljana,30.998,2011,24.57,2011
+EurHI,EurA,Slovenia,Maribor,,,23.032,2011
+EurHI,EurA,Spain,Albacete,31.476,2011,11.157,2011
+EurHI,EurA,Spain,Alcorc¨®n,24.164,2011,11.843,2011
+EurHI,EurA,Spain,Alicante/Alacant,,,10.875,2011
+EurHI,EurA,Spain,Arrecife,23.571,2011,5.639,2011
+EurHI,EurA,Spain,Badajoz,16.33,2011,9.006239202,
+EurHI,EurA,Spain,Barcelona,24.902,2011,15.632,2011
+EurHI,EurA,Spain,Benidorm,10.411,2011,8.877,2011
+EurHI,EurA,Spain,Bilbao,31.477,2010,12.925,2011
+EurHI,EurA,Spain,Burgos,25.264,2011,13.9334738,
+EurHI,EurA,Spain,C¨¢ceres,14.169,2011,7.814415386,
+EurHI,EurA,Spain,Cartagena,25.771,2011,14.21309188,
+EurHI,EurA,Spain,Castell¨®n de la Plana/Castell¨® de la Plana,,,13.366,2011
+EurHI,EurA,Spain,Ciudad Real,19.277,2011,10.63155377,
+EurHI,EurA,Spain,C¨®rdoba,23.676,2011,13.05766806,
+EurHI,EurA,Spain,Elche/Elx,21.644,2011,11.93698967,
+EurHI,EurA,Spain,Elda,14.637,2011,10.994,2011
+EurHI,EurA,Spain,Ferrol,22.46,2011,12.38702587,
+EurHI,EurA,Spain,Gij¨®n,27.155,2011,11.652,2011
+EurHI,EurA,Spain,Granada,28.755,2011,15.85881251,
+EurHI,EurA,Spain,Guadalajara,22.351,2011,12.32691074,
+EurHI,EurA,Spain,Ja¨¦n,28.73,2010,15.84502463,
+EurHI,EurA,Spain,Jerez de la Frontera,25.198,2011,13.89707382,
+EurHI,EurA,Spain,Las Palmas,22.316,2011,6.466,2011
+EurHI,EurA,Spain,"L¨ªnea de la Concepci¨®n, La",33.108,2011,18.2595571,
+EurHI,EurA,Spain,Logro?o,29.465,2011,16.25038813,
+EurHI,EurA,Spain,Madrid,21.75471429,2011,11.497,2011
+EurHI,EurA,Spain,Majadahonda,20.922,2011,11.53879587,
+EurHI,EurA,Spain,M¨¢laga,31.619,2010,17.43835134,
+EurHI,EurA,Spain,Marbella,12.784,2011,7.050567174,
+EurHI,EurA,Spain,Matar¨®,24.495,2011,13.5093588,
+EurHI,EurA,Spain,M¨®stoles,21.658,2011,11.94471088,
+EurHI,EurA,Spain,Oviedo,22.525,2011,12.42287434,
+EurHI,EurA,Spain,Palma de Mallorca,14.201,2011,7.832063864,
+EurHI,EurA,Spain,Pamplona/Iru?a,22.5605,2011,14.335,2011
+EurHI,EurA,Spain,Salamanca,21.194,2011,11.68880794,
+EurHI,EurA,Spain,San Fernando,21.733,2010,11.9860745,
+EurHI,EurA,Spain,San Sebasti¨¢n/Donostia,18.718,2011,10.32325691,
+EurHI,EurA,Spain,Santander,23.588,2011,13.00913474,
+EurHI,EurA,Spain,Santiago de Compostela,15.313,2011,8.445348493,
+EurHI,EurA,Spain,Sevilla,28.881,2011,15.92830339,
+EurHI,EurA,Spain,Talavera de la Reina,21.94,2011,12.10023809,
+EurHI,EurA,Spain,Telde,20.962,2011,8.161,2011
+EurHI,EurA,Spain,Toledo,22.497,2011,17.436,2011
+EurHI,EurA,Spain,Torrej¨®n de Ardoz,27.971,2011,13.253,2011
+EurHI,EurA,Spain,Valencia,20.28,2011,13.7195,2011
+EurHI,EurA,Spain,Zaragoza,22.488,2011,12.306,2011
+EurHI,EurA,Sweden,G?teborg,17.746,2011,9.594184023,
+EurHI,EurA,Sweden,Lund,14.537,2011,7.859272689,
+EurHI,EurA,Sweden,Malm?,20.656,2011,15.858,2011
+EurHI,EurA,Sweden,Stockholm,14.661,2011,6.74,2011
+EurHI,EurA,Sweden,Ume?,,,4.835,2011
+EurHI,EurA,Switzerland,Basel,22.44,2011,15.06128824,
+EurHI,EurA,Switzerland,Gen¨¨ve,27.069,2011,18.16818233,
+EurHI,EurA,Switzerland,Lugano,23.176,2011,15.55527702,
+EurHI,EurA,Switzerland,Luzern,24.124,2010,16.19155604,
+EurHI,EurA,Switzerland,Winterthur,19.685,2010,13.21218623,
+EurHI,EurA,Switzerland,Z¨¹rich,20.262,2011,13.59945733,
+EurHI,EurA,United Kingdom,Aberdeen,13.748,2011,8.489,2011
+EurHI,EurA,United Kingdom,Belfast,,,14.023,2011
+EurHI,EurA,United Kingdom,Birmingham,23.02,2011,15.649,2011
+EurHI,EurA,United Kingdom,Bournemouth,,,8.98,2011
+EurHI,EurA,United Kingdom,Brighton and Hove,,,12.105,2011
+EurHI,EurA,United Kingdom,Bristol,20.426,2010,14.63,2011
+EurHI,EurA,United Kingdom,Chesterfield,21.847,2011,14.109,2011
+EurHI,EurA,United Kingdom,Derry,18.511,2011,13.07934801,
+EurHI,EurA,United Kingdom,Eastbourne,,,16.421,2011
+EurHI,EurA,United Kingdom,Edinburgh,15.378,2011,11.628,2011
+EurHI,EurA,United Kingdom,Glasgow,16.526,2011,10.139,2011
+EurHI,EurA,United Kingdom,Kingston-upon-Hull,17.342,2011,12.421,2011
+EurHI,EurA,United Kingdom,Leeds,20.678,2011,15.999,2011
+EurHI,EurA,United Kingdom,Leicester,17.455,2011,14.495,2011
+EurHI,EurA,United Kingdom,Liverpool,16.23,2011,11.837,2011
+EurHI,EurA,United Kingdom,London,21.80933333,2011,15.594125,2011
+EurHI,EurA,United Kingdom,Manchester,,,13.706,2011
+EurHI,EurA,United Kingdom,Newcastle upon Tyne,19.616,2011,11.844,2011
+EurHI,EurA,United Kingdom,Newport,17.676,2011,12.48936068,
+EurHI,EurA,United Kingdom,Northampton,,,9.966,2011
+EurHI,EurA,United Kingdom,Norwich,19.834,2011,14.141,2011
+EurHI,EurA,United Kingdom,Nottingham,24.765,2011,13.196,2011
+EurHI,EurA,United Kingdom,Oxford,17.167,2011,11.674,2011
+EurHI,EurA,United Kingdom,Plymouth,20.319,2011,10.579,2011
+EurHI,EurA,United Kingdom,Portsmouth,,,15.857,2011
+EurHI,EurA,United Kingdom,Preston,,,11.387,2011
+EurHI,EurA,United Kingdom,Reading,19.153,2011,13.749,2011
+EurHI,EurA,United Kingdom,Sheffield,22.698,2011,17.353,2011
+EurHI,EurA,United Kingdom,Southampton,20.969,2011,15.934,2011
+EurHI,EurA,United Kingdom,Stoke-on-trent,22.227,2011,16.302,2011
+EurHI,EurA,United Kingdom,Sunderland,,,14.947,2011
+EurHI,EurA,United Kingdom,Thurrock,24.852,2011,17.55971892,
+EurHI,EurA,United Kingdom,Warrington,18.588,2011,12.772,2011
+EurHI,EurA,United Kingdom,Warwick,20.389,2010,14.40628959,
+EurHI,EurA,United Kingdom,Wirral,,,10.093,2011
+EurHI,EurA,United Kingdom,York,18.046,2011,12.75079219,
+Sear,SearD,Bangladesh,Barisal,160,2013,77,2013
+Sear,SearD,Bangladesh,Chittagong,132,2013,66,2013
+Sear,SearD,Bangladesh,Dhaka,180,2013,86,2013
+Sear,SearD,Bangladesh,Gazipur,166,2013,87,2013
+Sear,SearD,Bangladesh,Khulna,102,2013,70,2013
+Sear,SearD,Bangladesh,Narayonganj,181,2013,89,2013
+Sear,SearD,Bangladesh,Rajshahi,195,2013,70,2013
+Sear,SearD,Bangladesh,Sylhet,112,2013,63,2013
+Sear,SearD,Bhutan,Thimpu,23,2011,10.08019722,
+Sear,SearD,India,Agra,200,2010,87.65388887,
+Sear,SearD,India,Ahmedabad,67,2011,100.1,2013
+Sear,SearD,India,Aizawl,54.5,2012,23.88568472,
+Sear,SearD,India,Alappuzha,46,2012,20.16039444,
+Sear,SearD,India,Allahabad,201.5,2010,88.31129304,
+Sear,SearD,India,Alwar,86,2011,37.69117222,
+Sear,SearD,India,Amravati,97,2010,42.5121361,
+Sear,SearD,India,Amritsar,210,2012,92.03658332,
+Sear,SearD,India,Angul,91,2011,39.88251944,
+Sear,SearD,India,Anklesvar,71,2010,31.11713055,
+Sear,SearD,India,Aurangabad,106.5,2010,46.67569583,
+Sear,SearD,India,Balasore,57,2011,24.98135833,
+Sear,SearD,India,Bangalore,103.3333333,2010,45.28784259,
+Sear,SearD,India,Berhampur,61,2012,26.73443611,
+Sear,SearD,India,Bhilai,81,2012,35.49982499,
+Sear,SearD,India,Bhopal,170.5,2012,74.72494027,
+Sear,SearD,India,Bhubaneshwar,85,2012,37.25290277,
+Sear,SearD,India,Bongaigaon,45.5,2012,19.94125972,
+Sear,SearD,India,Chandigarh,104.5,2012,45.79915694,
+Sear,SearD,India,Chandrapur,173.5,2010,76.0397486,
+Sear,SearD,India,Chennai,55,2010,24.10481944,
+Sear,SearD,India,Coimbatore,66,2011,28.92578333,
+Sear,SearD,India,Cuttack,67.5,2012,29.5831875,
+Sear,SearD,India,Dawki (rural),52,2011,22.79001111,
+Sear,SearD,India,Dehradun,175,2011,76.69715277,
+Sear,SearD,India,Delhi,286,2010,152.60333,2013
+Sear,SearD,India,Dera Baba Nanak,68,2012,29.80232222,
+Sear,SearD,India,Dewas,97,2012,42.5121361,
+Sear,SearD,India,Dibrugarh,56,2012,24.54308888,
+Sear,SearD,India,Dimapur,92,2011,40.32078888,
+Sear,SearD,India,Durgapur,110,2009,48.20963888,
+Sear,SearD,India,Firozabad,218.5,2010,95.7618736,
+Sear,SearD,India,Gobindgarh,158.5,2012,69.46570693,
+Sear,SearD,India,Golaghat,55,2012,24.10481944,
+Sear,SearD,India,Gulbarga,64,2010,28.04924444,
+Sear,SearD,India,Guntur ,75,2012,32.87020833,
+Sear,SearD,India,Guwahati,91.83333333,2012,40.24774398,
+Sear,SearD,India,Gwalior,329,2012,144.1906472,
+Sear,SearD,India,Hassan,44,2010,19.28385555,
+Sear,SearD,India,Hisar,72,2011,31.55539999,
+Sear,SearD,India,Howrah,107.5,2009,47.11396527,
+Sear,SearD,India,Hyderabad,86.5,2012,37.91030694,
+Sear,SearD,India,Indore,121.6666667,2012,53.3227824,
+Sear,SearD,India,Jaipur,155,2012,67.93176388,
+Sear,SearD,India,Jalandhar,127.5,2012,55.87935416,
+Sear,SearD,India,Jammu,127,2010,55.66021944,
+Sear,SearD,India,Jamnagar,104,2010,45.58002221,
+Sear,SearD,India,Jhansi,113,2012,49.52444721,
+Sear,SearD,India,Jodhpur,195.5,2012,85.68167638,
+Sear,SearD,India,Kakinada ,58,2012,25.41962777,
+Sear,SearD,India,Kanpur,211.6666667,2010,92.76703239,
+Sear,SearD,India,Khammam ,64,2012,28.04924444,
+Sear,SearD,India,Khanna,200,2012,87.65388887,
+Sear,SearD,India,Khurja,154,2011,67.49349443,
+Sear,SearD,India,Kochi,64,2012,28.04924444,
+Sear,SearD,India,Kohima,64,2011,28.04924444,
+Sear,SearD,India,Kolhapur,81,2010,35.49982499,
+Sear,SearD,India,Kolkata,97,2009-2010,42.5121361,
+Sear,SearD,India,Kollam,39,2012,17.09250833,
+Sear,SearD,India,Korba,114.3333333,2012,50.10880647,
+Sear,SearD,India,Kota,146,2012,63.98733888,
+Sear,SearD,India,Kottayam,55,2012,24.10481944,
+Sear,SearD,India,Kozhikode,57,2012,24.98135833,
+Sear,SearD,India,Kurnool ,74,2012,32.43193888,
+Sear,SearD,India,Lucknow,219,2010,95.98100832,
+Sear,SearD,India,Ludhiana,207,2012,90.72177499,
+Sear,SearD,India,Madurai,45.5,2011,19.94125972,
+Sear,SearD,India,Mahad,108.5,2010,47.55223471,
+Sear,SearD,India,Margherita,54,2012,23.66655,
+Sear,SearD,India,Meerut,126,2010,55.22194999,
+Sear,SearD,India,Mumbai,136,2010,45.2,2012
+Sear,SearD,India,Nagaon,79,2012,34.62328611,
+Sear,SearD,India,Nagda,114.3333333,2012,50.10880647,
+Sear,SearD,India,Nagpur,117.5,2010,51.49665971,
+Sear,SearD,India,Nahan,110,2012,48.20963888,
+Sear,SearD,India,Nalbari,82,2012,35.93809444,
+Sear,SearD,India,Nalgonda ,78,2012,34.18501666,
+Sear,SearD,India,Nashik,102.5,2010,44.92261805,
+Sear,SearD,India,Navi Mumbai,103.75,2010,45.47045485,
+Sear,SearD,India,Naya Nangal,95.5,2012,41.85473194,
+Sear,SearD,India,Nellore,63,2012,27.610975,
+Sear,SearD,India,Noida,133,2012,58.2898361,
+Sear,SearD,India,North Lakhimpur Town,72,2012,31.55539999,
+Sear,SearD,India,Panaji,116,2012,50.83925555,
+Sear,SearD,India,Parwanoo,70,2011,30.67886111,
+Sear,SearD,India,Patancheru,109,2012,47.77136944,
+Sear,SearD,India,Pathanamthitta,23,2012,10.08019722,
+Sear,SearD,India,Patiala,91,2012,39.88251944,
+Sear,SearD,India,Patna,163.5,2011,148.94,2013
+Sear,SearD,India,Pondicherry,39,2009,17.09250833,
+Sear,SearD,India,Pune,133.5,2010,58.50897082,
+Sear,SearD,India,Raipur,305,2012,133.6721805,
+Sear,SearD,India,Rajkot,75,2010,32.87020833,
+Sear,SearD,India,Ramagundam,83,2012,36.37636388,
+Sear,SearD,India,Rayagada,62,2012,27.17270555,
+Sear,SearD,India,Rishikesh,103,2011,45.14175277,
+Sear,SearD,India,Roha,121,2010,53.03060277,
+Sear,SearD,India,Rourkela,104,2011,45.58002221,
+Sear,SearD,India,Salem,61,2011,26.73443611,
+Sear,SearD,India,Sambalpur,60,2012,26.29616666,
+Sear,SearD,India,Sangli,90.5,2010,39.66338472,
+Sear,SearD,India,Satna,99,2011,43.38867499,
+Sear,SearD,India,Shillong,77.5,2011,33.96588194,
+Sear,SearD,India,Shimla,68,2011,29.80232222,
+Sear,SearD,India,Sibsagar,109,2012,47.77136944,
+Sear,SearD,India,Silchar,90.5,2012,39.66338472,
+Sear,SearD,India,Singrauli,60,2012,26.29616666,
+Sear,SearD,India,Solapur,80,2010,35.06155555,
+Sear,SearD,India,Surat,94,2012,41.19732777,
+Sear,SearD,India,Tezpur,69,2012,30.24059166,
+Sear,SearD,India,Thane,49,2010,21.47520277,
+Sear,SearD,India,Thoothukudi,91.5,2011,40.10165416,
+Sear,SearD,India,Thrissur,73,2012,31.99366944,
+Sear,SearD,India,Tinsukia,56.5,2012,24.76222361,
+Sear,SearD,India,Trivandrum,52.33333333,2012,22.93610092,
+Sear,SearD,India,Tura,57,2011,24.98135833,
+Sear,SearD,India,Udaipur,142.5,2011,62.45339582,
+Sear,SearD,India,Ujjain,60,2012,26.29616666,
+Sear,SearD,India,Vadodara,64.5,2010,28.26837916,
+Sear,SearD,India,Vapi,74,2010,32.43193888,
+Sear,SearD,India,Varanasi,126,2010,55.22194999,
+Sear,SearD,India,Vijayawada,95,2012,41.63559722,
+Sear,SearD,India,Visikhapatnam,78.75,2012,34.51371874,
+Sear,SearD,India,Warangal,64,2012,28.04924444,
+Sear,SearB,Indonesia,Jakarta,48,2010,21.03693333,
+Sear,SearD,Maldives,Male - Friday Mosque Station,20,2011,8.765388887,
+Sear,SearD ,Myanmar,Mandalay,68.525,2008,30.03241368,
+Sear,SearD,Nepal,Kathmandu,114,2008,49.96271666,
+Sear,SearB,Sri Lanka,Colombo,64,2010,28.04924444,
+Sear,SearB,Thailand,Ayutthaya,,,35.3,2012
+Sear,SearB,Thailand,Bangkok,38.15555556,2012,20.32099658,
+Sear,SearB,Thailand,Chachoengsao,26.7,2012,14.21996354,
+Sear,SearB,Thailand,Chiang Mai,42.15,2012,22.44836941,
+Sear,SearB,Thailand,Chiang Rai,69.55,2012,37.04114098,
+Sear,SearB,Thailand,Chon Buri,20.66666667,2012,11.00671335,
+Sear,SearB,Thailand,Khon Kaen,36.3,2012,19.33275942,
+Sear,SearB,Thailand,Lampang,56.65,2012,30.17082152,
+Sear,SearB,Thailand,Lamphun,46.7,2012,24.87162162,
+Sear,SearB,Thailand,Loei,37.9,2012,20.18489207,
+Sear,SearB,Thailand,Mae Hong Son,44,2012,23.43364778,
+Sear,SearB,Thailand,Nakhon Ratchasima,54.5,2012,29.02576827,
+Sear,SearB,Thailand,Nakhon Sawan,38.1,2012,20.29140865,
+Sear,SearB,Thailand,Nan,43.7,2012,23.27387291,
+Sear,SearB,Thailand,Narathiwat,33.2,2012,17.68175242,
+Sear,SearB,Thailand,Nonthaburi ,34.4,2012,18.3208519,
+Sear,SearB,Thailand,Pathum Thani,46.8,2012,24.92487991,
+Sear,SearB,Thailand,Phayao,54.1,2012,28.81273511,
+Sear,SearB,Thailand,Phrae,61.1,2012,32.54081544,
+Sear,SearB,Thailand,Phuket,21.1,2012,11.23749928,
+Sear,SearB,Thailand,Ratchaburi,31.2,2012,16.61658661,
+Sear,SearB,Thailand,Rayong,34.58,2012,17.6,2012
+Sear,SearB,Thailand,Sa Kaeo,34.5,2012,18.37411019,
+Sear,SearB,Thailand,Samut Prakan,41.86,2012,22.29392037,
+Sear,SearB,Thailand,Samut Sakhon,44.2,2012,23.54016436,
+Sear,SearB,Thailand,Saraburi,65.65,2012,34.96406765,
+Sear,SearB,Thailand,Songkhla,33.6,2012,18.9,2012
+Sear,SearB,Thailand,Surat Thani,37.8,2012,20.13163377,
+Sear,SearB,Thailand,Yala,26.4,2012,14.06018867,
+Wpr,WprB,China,Anshan,105,2010,48.20614932,
+Wpr,WprB,China,Anyang,109,2010,50.04257406,
+Wpr,WprB,China,Baoding,84,2010,38.56491946,
+Wpr,WprB,China,Baoji,98,2010,44.99240604,
+Wpr,WprB,China,Baotou,102,2010,46.82883077,
+Wpr,WprB,China,Beihai,58,2010,26.62815867,
+Wpr,WprB,China,Beijing,121,2010,55.55184827,
+Wpr,WprB,China,Benxi,69,2010,31.6783267,
+Wpr,WprB,China,Changchun,83,2010,38.10581327,
+Wpr,WprB,China,Changde,92,2010,42.23776893,
+Wpr,WprB,China,Changsha,104,2010,47.74704314,
+Wpr,WprB,China,Changzhi,83,2010,38.10581327,
+Wpr,WprB,China,Changzhou,97,2010,44.53329985,
+Wpr,WprB,China,Chengdu,102,2010,46.82883077,
+Wpr,WprB,China,Chifeng,93,2010,42.69687511,
+Wpr,WprB,China,Chongqing,89,2010,40.86045038,
+Wpr,WprB,China,Datong,75,2010,34.4329638,
+Wpr,WprB,China,Deyang,65,2010,29.84190196,
+Wpr,WprB,China,Fushun,94,2010,43.1559813,
+Wpr,WprB,China,Fuzhou,73,2010,33.51475143,
+Wpr,WprB,China,Guangzhou,69,2010,31.6783267,
+Wpr,WprB,China,Guilin,66,2010,30.30100815,
+Wpr,WprB,China,Guiyang,75,2010,34.4329638,
+Wpr,WprB,China,Haikou,40,2010,18.36424736,
+Wpr,WprB,China,Handan,90,2010,41.31955656,
+Wpr,WprB,China,Hangzhou,98,2010,44.99240604,
+Wpr,WprB,China,Harbin,101,2010,46.36972459,
+Wpr,WprB,China,Hefei,115,2010,52.79721116,
+Wpr,WprB,China,Hohhot,68,2010,31.21922051,
+Wpr,WprB,China,Hong Kong SAR,45,2010,20.65977828,
+Wpr,WprB,China,Huzhou,86,2010,39.48313183,
+Wpr,WprB,China,Jiaozuo,99,2010,45.45151222,
+Wpr,WprB,China,Jilin,81,2010,37.18760091,
+Wpr,WprB,China,Jinan,117,2010,53.71542353,
+Wpr,WprB,China,Jinchang,88,2010,40.40134419,
+Wpr,WprB,China,Jingzhou,88,2010,40.40134419,
+Wpr,WprB,China,Jining,116,2010,53.25631735,
+Wpr,WprB,China,Jiujiang,64,2010,29.38279578,
+Wpr,WprB,China,Kaifeng,111,2010,50.96078643,
+Wpr,WprB,China,Karamay,51,2010,23.41441539,
+Wpr,WprB,China,Kunming,72,2010,33.05564525,
+Wpr,WprB,China,Lanzhou,155,2010,71.16145852,
+Wpr,WprB,China,Lhasa,48,2010,22.03709683,
+Wpr,WprB,China,Lianyungang,90,2010,41.31955656,
+Wpr,WprB,China,Linfen,84,2010,38.56491946,
+Wpr,WprB,China,Liuzhou,67,2010,30.76011433,
+Wpr,WprB,China,Luoyang,107,2010,49.12436169,
+Wpr,WprB,China,Luzhou,86,2010,39.48313183,
+Wpr,WprB,China,Maanshan,97,2010,44.53329985,
+Wpr,WprB,China,Mianyang,82,2010,37.64670709,
+Wpr,WprB,China,Mudanjiang,70,2010,32.13743288,
+Wpr,WprB,China,Nanchang,87,2010,39.94223801,
+Wpr,WprB,China,Nanchong,61,2010,28.00547723,
+Wpr,WprB,China,Nanjing,114,2010,52.33810498,
+Wpr,WprB,China,Nanning,69,2010,31.6783267,
+Wpr,WprB,China,Nantong,97,2010,44.53329985,
+Wpr,WprB,China,Ningbo,96,2010,44.07419367,
+Wpr,WprB,China,Panzhihua,98,2010,44.99240604,
+Wpr,WprB,China,Pingdingshan,94,2010,43.1559813,
+Wpr,WprB,China,Qingdao,99,2010,45.45151222,
+Wpr,WprB,China,Qinhuangdao,64,2010,29.38279578,
+Wpr,WprB,China,Qiqihar,78,2010,35.81028235,
+Wpr,WprB,China,Quanzhou,68,2010,31.21922051,
+Wpr,WprB,China,Qujing,85,2010,39.02402564,
+Wpr,WprB,China,Rizhao,89,2010,40.86045038,
+Wpr,WprB,China,Sanmenxia,96,2010,44.07419367,
+Wpr,WprB,China,Shanghai,79,2010,36.26938854,
+Wpr,WprB,China,Shantou,60,2010,27.54637104,
+Wpr,WprB,China,Shaoguan,74,2010,33.97385762,
+Wpr,WprB,China,Shaoxing,95,2010,43.61508748,
+Wpr,WprB,China,Shenyang,101,2010,46.36972459,
+Wpr,WprB,China,Shenzhen,57,2010,26.16905249,
+Wpr,WprB,China,Shijiazhuang,98,2010,44.99240604,
+Wpr,WprB,China,Shizuishan,88,2010,40.40134419,
+Wpr,WprB,China,Suzhou,90,2010,41.31955656,
+Wpr,WprB,China,Taian,97,2010,44.53329985,
+Wpr,WprB,China,Taiyuan,89,2010,40.86045038,
+Wpr,WprB,China,Tangshan,85,2010,39.02402564,
+Wpr,WprB,China,Tianjin,96,2010,44.07419367,
+Wpr,WprB,China,Tongchuan,99,2010,45.45151222,
+Wpr,WprB,China,Urumqi,133,2010,61.06112248,
+Wpr,WprB,China,Weifang,99,2010,45.45151222,
+Wpr,WprB,China,Weinan,112,2010,51.41989261,
+Wpr,WprB,China,Wenzhou,85,2010,39.02402564,
+Wpr,WprB,China,Wuhan,108,2010,49.58346788,
+Wpr,WprB,China,Wuhu,75,2010,34.4329638,
+Wpr,WprB,China,Wuxi,88,2010,40.40134419,
+Wpr,WprB,China,Xiamen,65,2010,29.84190196,
+Wpr,WprB,China,Xi'an,126,2010,57.84737919,
+Wpr,WprB,China,Xiangtan,95,2010,43.61508748,
+Wpr,WprB,China,Xianyang,94,2010,43.1559813,
+Wpr,WprB,China,Xining,124,2010,56.92916682,
+Wpr,WprB,China,Xuzhou,88,2010,40.40134419,
+Wpr,WprB,China,Yan'an,120,2010,55.09274208,
+Wpr,WprB,China,Yangquan,78,2010,35.81028235,
+Wpr,WprB,China,Yangzhou,96,2010,44.07419367,
+Wpr,WprB,China,Yantai,81,2010,37.18760091,
+Wpr,WprB,China,Yibing,78,2010,35.81028235,
+Wpr,WprB,China,Yichang,86,2010,39.48313183,
+Wpr,WprB,China,Yinchuan,93,2010,42.69687511,
+Wpr,WprB,China,Yueyang,97,2010,44.53329985,
+Wpr,WprB,China,Yuxi,79,2010,36.26938854,
+Wpr,WprB,China,Zaozhuang,99,2010,45.45151222,
+Wpr,WprB,China,Zhangjiajie,71,2010,32.59653907,
+Wpr,WprB,China,Zhanjiang,45,2010,20.65977828,
+Wpr,WprB,China,Zhengzhou,111,2010,50.96078643,
+Wpr,WprB,China,Zhenjiang,97,2010,44.53329985,
+Wpr,WprB,China,Zhuhai,49,2010,22.49620302,
+Wpr,WprB,China,Zhuzhou,81,2010,37.18760091,
+Wpr,WprB,China,Zibo,110,2010,50.50168024,
+Wpr,WprB,China,Zigong,81,2010,37.18760091,
+Wpr,WprB,China,Zunyi,87,2010,39.94223801,
+Wpr,WprB,Malaysia,Bayan Lepas,27.7,2012,12.7172413,
+Wpr,WprB,Malaysia,Kota Kinabalu,29.1,2012,13.35998996,
+Wpr,WprB,Malaysia,Kuantan,25,2012,11.4776546,
+Wpr,WprB,Malaysia,Kuching,24.1,2012,11.06445904,
+Wpr,WprB,Malaysia,Petaling Jaya,36.4,2012,16.7114651,
+Wpr,WprB,Malaysia,Senai,32.4,2012,14.87504036,
+Wpr,WprB,Malaysia,Tanah Rata,15,2012,6.88659276,
+Wpr,WprB,Mongolia,Bayankhongor,128,2010,58.76559156,
+Wpr,WprB,Mongolia,Darkhan,174,2009,79.88447602,
+Wpr,WprB,Mongolia,Erdenet,45,2009,20.65977828,
+Wpr,WprB,Mongolia,Khobd,133,2010,61.06112248,
+Wpr,WprB,Mongolia,Murun,76,2010,34.89206999,
+Wpr,WprB,Mongolia,Sukhbaatar,39,2009,17.90514118,
+Wpr,WprB,Mongolia,Tsetserleg,136,2009,62.43844103,
+Wpr,WprB,Mongolia,Ulaanbaatar,148,2010,67.94771524,
+Wpr,WprB,Philippines,Baguio,107,2010,49.12436169,
+Wpr,WprB,Philippines,Cebu,47,2010,21.57799065,
+Wpr,WprB,Philippines,Manila,49,2010,22.49620302,
+Wpr,WprB,Viet Nam,Da Nang,42,2009,19.28245973,
+Wpr,WprB,Viet Nam,H¨¤ Noi,86,2009,39.48313183,
+Wpr,WprB,Viet Nam,Ho Chi Minh,58,2009,26.62815867,
+WprHI,WprA,Australia,Adelaide,12.5,,7.5,2010
+WprHI,WprA,Australia,Brisbane,10.5,,6.3,2010
+WprHI,WprA,Australia,Bunbury,13.33333333,,8,2011
+WprHI,WprA,Australia,Busselton,14.16666667,,8.5,2011
+WprHI,WprA,Australia,Canberra,11.83333333,,7.1,2012
+WprHI,WprA,Australia,Casuarina,10.5,,6.3,2010
+WprHI,WprA,Australia,Geelong,18.4,2011,5.035734543,
+WprHI,WprA,Australia,Hobart,10.33333333,,6.2,2011
+WprHI,WprA,Australia,Illawarra,8.333333333,,5,2010
+WprHI,WprA,Australia,Launceston,12.5,,7.5,2011
+WprHI,WprA,Australia,Lower Hunter,8.75,,5.25,2010
+WprHI,WprA,Australia,Melbourne,17.63,2011,4.825,2011
+WprHI,WprA,Australia,Perth,12.41666667,,7.45,2011
+WprHI,WprA,Australia,Sydney,8.625,,5.175,2010
+WprHI,WprA,Australia,Traralgon,19.2,2011,5.254679524,
+WprHI,WprA,Brunei Darussalam,Belait Disctrict,17,2010,7.804805129,
+WprHI,WprA,Brunei Darussalam,Brunei-Muara District,10,2010,4.59106184,
+WprHI,WprA,Brunei Darussalam,Temburong District,15,2010,6.88659276,
+WprHI,WprA,Brunei Darussalam,Tutong District,16,2010,7.345698944,
+WprHI,WprA,Japan,Aoba-ku/Sendai,14,2010,6.427486576,
+WprHI,WprA,Japan,Chikusa-ku/Nagoya,13,2010,5.968380392,
+WprHI,WprA,Japan,Chiyoda-ku,22,2010,10.10033605,
+WprHI,WprA,Japan,Chuo-ku/Chiba,22,2010,10.10033605,
+WprHI,WprA,Japan,Chuo-ku/Fukuoka,20,2010,9.182123681,
+WprHI,WprA,Japan,Higashinada-ku/Kobe,25,2010,11.4776546,
+WprHI,WprA,Japan,Higashinari-ku/Osaka,20,2010,9.182123681,
+WprHI,WprA,Japan,Kawasaki-ku/Kawasaki,20,2010,9.182123681,
+WprHI,WprA,Japan,Kita-ku/Niigata,20,2010,9.182123681,
+WprHI,WprA,Japan,Kita-ku/Okayama,16,2010,7.345698944,
+WprHI,WprA,Japan,Kita-ku/Sapporo,18,2010,8.263911313,
+WprHI,WprA,Japan,Minami-ku/Hiroshima,21,2010,9.641229865,
+WprHI,WprA,Japan,Moji-ku/Kitakyushu,20,2010,9.182123681,
+WprHI,WprA,Japan,Nakagyo-ku/Kyoto,21,2010,9.641229865,
+WprHI,WprA,Japan,Naka-ku/Hamamatsu,22,2010,10.10033605,
+WprHI,WprA,Japan,Naka-ku/Yokohama,22,2010,10.10033605,
+WprHI,WprA,Japan,Sagamihara,22,2010,10.10033605,
+WprHI,WprA,Japan,Sakai-ku/Sakai,22,2010,10.10033605,
+WprHI,WprA,Japan,Shimuzu-ku/Shizuoka,13,2010,5.968380392,
+WprHI,WprA,Japan,Urawa-ku/Saitama,31,2010,14.2322917,
+WprHI,WprA,New Zealand,Auckland,15,2012,7,2012
+WprHI,WprA,New Zealand,Blenheim,19,2012,9.006146248,
+WprHI,WprA,New Zealand,Christchurch,23,2011,11,2011
+WprHI,WprA,New Zealand,Dunedin,18,2012,8.532138551,
+WprHI,WprA,New Zealand,Hamilton,13,2012,6.162100065,
+WprHI,WprA,New Zealand,Hastings,15,2012,7.110115459,
+WprHI,WprA,New Zealand,Lower Hutt,10,2012,4.740076973,
+WprHI,WprA,New Zealand,Masterton,14,2012,12,2012
+WprHI,WprA,New Zealand,Napier,14,2012,6.636107762,
+WprHI,WprA,New Zealand,Porirua,12,2012,5.688092367,
+WprHI,WprA,New Zealand,Rotorua,20,2012,9.480153946,
+WprHI,WprA,New Zealand,Taupo,13,2012,6.162100065,
+WprHI,WprA,New Zealand,Timaru,28,2011,13.27221552,
+WprHI,WprA,New Zealand,Upper Hutt,10,2012,4.740076973,
+WprHI,WprA,New Zealand,Wainuiomata,10,2012,4.740076973,
+WprHI,WprA,New Zealand,Wellington,13,2012,6.162100065,
+WprHI,WprA,New Zealand,Whangarei,15,2012,7.110115459,
+WprHI,WprB,Republic of Korea,Ansan,54,2010,24.79173394,
+WprHI,WprB,Republic of Korea,Anyang,58,2010,26.62815867,
+WprHI,WprB,Republic of Korea,Bucheon,63,2010,28.92368959,
+WprHI,WprB,Republic of Korea,Busan,49,2010,22.49620302,
+WprHI,WprB,Republic of Korea,Changwon,46,2010,21.11888447,
+WprHI,WprB,Republic of Korea,Cheonan,48,2010,22.03709683,
+WprHI,WprB,Republic of Korea,Cheongju,66,2010,30.30100815,
+WprHI,WprB,Republic of Korea,Chuncheon,53,2010,24.33262775,
+WprHI,WprB,Republic of Korea,Chungju,53,2010,24.33262775,
+WprHI,WprB,Republic of Korea,Daegue,51,2010,23.41441539,
+WprHI,WprB,Republic of Korea,Daejeon,43,2010,19.74156591,
+WprHI,WprB,Republic of Korea,Gangneung,45,2010,20.65977828,
+WprHI,WprB,Republic of Korea,Gimcheon,49,2010,22.49620302,
+WprHI,WprB,Republic of Korea,Gumi,42,2010,19.28245973,
+WprHI,WprB,Republic of Korea,Gunsan,53,2010,24.33262775,
+WprHI,WprB,Republic of Korea,Guri,50,2010,22.9553092,
+WprHI,WprB,Republic of Korea,Gwacheon,55,2010,25.25084012,
+WprHI,WprB,Republic of Korea,Gwangju,45,2010,20.65977828,
+WprHI,WprB,Republic of Korea,Gwangmyeong,56,2010,25.70994631,
+WprHI,WprB,Republic of Korea,Gwangyang,45,2010,20.65977828,
+WprHI,WprB,Republic of Korea,Gyeongju,48,2010,22.03709683,
+WprHI,WprB,Republic of Korea,Iksan,56,2010,25.70994631,
+WprHI,WprB,Republic of Korea,Incheon,55,2010,25.25084012,
+WprHI,WprB,Republic of Korea,Jecheon,59,2010,27.08726486,
+WprHI,WprB,Republic of Korea,Jeju,50,2010,22.9553092,
+WprHI,WprB,Republic of Korea,Jeonju,50,2010,22.9553092,
+WprHI,WprB,Republic of Korea,Mokpo,39,2010,17.90514118,
+WprHI,WprB,Republic of Korea,Pohang,51,2010,23.41441539,
+WprHI,WprB,Republic of Korea,Seongnam,54,2010,24.79173394,
+WprHI,WprB,Republic of Korea,Seosan,41,2010,18.82335355,
+WprHI,WprB,Republic of Korea,Seoul,49,2010,22.49620302,
+WprHI,WprB,Republic of Korea,Suwon,52,2010,23.87352157,
+WprHI,WprB,Republic of Korea,Uijeongbu,60,2010,27.54637104,
+WprHI,WprB,Republic of Korea,Ulsan,48,2010,22.03709683,
+WprHI,WprB,Republic of Korea,Wonju,60,2010,27.54637104,
+WprHI,WprB,Republic of Korea,Yeosu,43,2010,19.74156591,
+WprHI,WprB,Singapore,Singapore,27,2011,17,2011
