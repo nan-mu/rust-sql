@@ -2,13 +2,9 @@ use std::fs;
 
 use chrono::NaiveDateTime;
 use csv::ReaderBuilder;
-use std::error::Error;
+use std::path::Path;
 
 use rusqlite::{params, Connection, Result};
-
-const DB_PATH: &str = "air_quality.db";
-const CSV_PATH: &str = "res/9.world_pm25_pm10.csv";
-
 #[derive(Debug)]
 pub struct Item {
     region: String,
@@ -47,10 +43,11 @@ impl Item {
 
 pub fn initialize_database() -> Result<()> {
     //假如数据库文件存在，则删除。
-    if !fs::metadata(DB_PATH).is_ok() {
-        fs::remove_file(DB_PATH).unwrap();
+    let db_path = Path::new("air_quality.db");
+    if db_path.exists() {
+        fs::remove_file(db_path).unwrap();
     }
-    let conn = Connection::open(DB_PATH)?;
+    let conn = Connection::open(db_path)?;
     conn.execute(
         "CREATE TABLE IF NOT EXISTS air_quality (
              id INTEGER PRIMARY KEY,
@@ -88,38 +85,83 @@ pub fn insert_item(conn: &Connection, item: &Item) -> Result<()> {
     Ok(())
 }
 
-pub fn load() -> Result<Vec<Item>, Box<dyn Error>> {
-    let file = fs::File::open(CSV_PATH)?;
+pub fn load_from_csv(conn: &Connection) -> Result<()> {
+    let csv_path = Path::new("res/9.world_pm25_pm10.csv");
+    let file = fs::File::open(csv_path).unwrap();
     let mut rdr = ReaderBuilder::new().delimiter(b'\t').from_reader(file);
-
-    let mut items = Vec::new();
-
     for result in rdr.records() {
-        let record = result;
-        // let item = Item::new(
-        //     &record.get(0).ok_or("Missing region")?.to_string(),
-        //     &record.get(1).ok_or("Missing subregion")?.to_string(),
-        //     &record.get(2).ok_or("Missing country")?.to_string(),
-        //     &record.get(3).ok_or("Missing city")?.to_string(),
-        //     &record.get(4).ok_or("Missing PM10")?.parse()?,
-        //     NaiveDateTime::parse_from_str(
-        //         &format!(
-        //             "{}-01-01 00:00:00",
-        //             &record.get(5).ok_or("Missing PM10 Year")?
-        //         ),
-        //         "%Y-%m-%d %H:%M:%S",
-        //     )?,
-        //     &record.get(6).ok_or("Missing PM2.5")?.parse()?,
-        //     NaiveDateTime::parse_from_str(
-        //         &format!(
-        //             "{}-01-01 00:00:00",
-        //             &record.get(7).ok_or("Missing PM2.5 Year")?
-        //         ),
-        //         "%Y-%m-%d %H:%M:%S",
-        //     )?,
-        // )?;
-        items.push(item);
+        let record = result.unwrap();
+        let item = Item::new(
+            record.get(0).ok_or("Missing region").unwrap(),
+            record.get(1).ok_or("Missing subregion").unwrap(),
+            record.get(2).ok_or("Missing country").unwrap(),
+            record.get(3).ok_or("Missing city").unwrap(),
+            record
+                .get(4)
+                .ok_or("Missing PM10")
+                .unwrap()
+                .parse::<f64>()
+                .unwrap(),
+            NaiveDateTime::parse_from_str(
+                &format!(
+                    "{}-01-01 00:00:00",
+                    record.get(5).ok_or("Missing PM10 Year").unwrap()
+                ),
+                "%Y-%m-%d %H:%M:%S",
+            )
+            .unwrap(),
+            record
+                .get(6)
+                .ok_or("Missing PM2.5")
+                .unwrap()
+                .parse::<f64>()
+                .unwrap(),
+            NaiveDateTime::parse_from_str(
+                &format!(
+                    "{}-01-01 00:00:00",
+                    record.get(7).ok_or("Missing PM2.5 Year").unwrap()
+                ),
+                "%Y-%m-%d %H:%M:%S",
+            )
+            .unwrap(),
+        );
+        insert_item(conn, &item).unwrap();
     }
 
-    Ok(items)
+    Ok(())
+}
+
+#[cfg(test)]
+mod tests {
+    // 注意这个惯用法：在 tests 模块中，从外部作用域导入所有名字。
+    use crate::db_option::{initialize_database, insert_item, Item};
+    use rusqlite::Connection;
+
+    #[test]
+    fn test_db_init() {
+        initialize_database().unwrap();
+
+        let conn = Connection::open("air_quality.db").expect("Could not open database");
+
+        let sample_item = Item::new(
+            "Sample Region",
+            "Sample Subregion",
+            "Sample Country",
+            "Sample City",
+            25.5,
+            chrono::Utc::now().naive_utc(),
+            15.3,
+            chrono::Utc::now().naive_utc(),
+        );
+
+        match insert_item(&conn, &sample_item) {
+            Ok(()) => println!("Item inserted successfully"),
+            Err(err) => eprintln!("Error inserting item: {}", err),
+        }
+    }
+
+    #[test]
+    fn test_load_csv() {
+        // 这个断言会导致测试失败。注意私有的函数也可以被测试！
+    }
 }

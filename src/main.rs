@@ -1,8 +1,6 @@
 mod db_option;
-
 use crate::db_option::{initialize_database, insert_item, Item};
 use rusqlite::Connection;
-
 fn main() {
     initialize_database().unwrap();
 
