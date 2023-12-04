@@ -1,37 +1,44 @@
-mod db_option;
-use crate::db_option::{init_database, load_from_csv, Build, Item, PmAndYear};
-use rocket::{get, main, routes, Error};
-use rusqlite::Connection;
-use time::Date;
+use std::fmt::Error;
 
-#[get("/query?<id>&<region>&<subregion>&<country>&<city>")]
-fn query(
-    id: Option<i64>,
-    region: Option<&str>,
-    subregion: Option<&str>,
-    country: Option<&str>,
-    city: Option<&str>,
-) -> String {
+#[test]
+fn test_db_init() -> Result<(), Error> {
+    use crate::db_option::{init_database, insert_item, Build, Item, PmAndYear};
+    use rusqlite::Connection;
+    use time::Date;
+    init_database().unwrap();
+
     let conn = Connection::open("air_quality.db").expect("Could not open database");
-    let mut query = "select * from air_quality where 1 = 1".to_string();
 
-    if let Some(id_) = id {
-        query.push_str(&(format!(" and id = {}", id_)));
-    }
-    if let Some(region_) = region {
-        query.push_str(&(format!(" and region = {}", region_)));
-    }
-    if let Some(subregion_) = subregion {
-        query.push_str(&(format!(" and subregion = {}", subregion_)));
-    }
-    if let Some(country_) = country {
-        query.push_str(&(format!(" and country = {}", country_)));
-    }
-    if let Some(city_) = city {
-        query.push_str(&(format!(" and city = {}", city_)));
-    }
-    query.push_str(";");
+    let sample_item = Item::new(
+        "Sample Region",
+        "Sample Subregion",
+        "Sample Country",
+        "Sample City",
+        PmAndYear::Pm10(25.5, Date::from_ordinal_date(2023, 1).unwrap()),
+        PmAndYear::Pm25(15.3, Date::from_ordinal_date(2023, 1).unwrap()),
+    );
 
+    match insert_item(&conn, &sample_item) {
+        Ok(()) => println!("Item inserted successfully"),
+        Err(err) => eprintln!("Error inserting item: {}", err),
+    };
+    Ok(())
+}
+
+#[test]
+fn test_load_csv() {
+    use crate::db_option::{init_database, load_from_csv};
+    init_database().unwrap();
+    load_from_csv().unwrap();
+}
+
+#[test]
+fn test_query() {
+    use crate::db_option::{Build, Item, PmAndYear};
+    use rusqlite::Connection;
+    use time::Date;
+    let conn = Connection::open("air_quality.db").expect("Could not open database");
+    let query = "select * from air_quality where 1=1 and id=1;".to_string();
     let mut stmt = conn.prepare(&query).unwrap();
     let item_iter = stmt
         .query_map([], |row| {
@@ -84,20 +91,5 @@ fn query(
         .map(|s| s.unwrap().to_string())
         .collect::<Vec<String>>()
         .join("\n");
-    result
+    println!("{}", &result);
 }
-
-#[main]
-async fn main() -> Result<(), Error> {
-    //初始化数据库
-    init_database().unwrap();
-    load_from_csv().unwrap();
-
-    //启动服务器
-    let _rocket = rocket::build().mount("/", routes![query]).launch().await?;
-
-    Ok(())
-}
-
-#[cfg(test)]
-mod tests;

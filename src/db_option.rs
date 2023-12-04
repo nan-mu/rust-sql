@@ -1,10 +1,10 @@
+#[warn(dead_code)]
 use csv;
 use rusqlite::{types, Connection, Result};
 use std::path::Path;
 use std::{fmt, fs};
 use time::Date;
 
-#[derive(Debug)]
 pub enum PmAndYear {
     Pm25(f64, Date),
     Pm10(f64, Date),
@@ -15,48 +15,57 @@ impl fmt::Display for PmAndYear {
     //服了，数据是大坑，有的数据缺少，需要写trait了
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
         match self {
-            PmAndYear::None => write!(f, "寄，缺省数据，错了"),
+            PmAndYear::None => write!(f, "缺省数据"),
             PmAndYear::Pm25(pm, year) => write!(f, "pm2.5: {}, year: {}", pm, year.year()),
             PmAndYear::Pm10(pm, year) => write!(f, "pm10 : {}, year: {}", pm, year.year()),
         }
     }
 }
 
-#[derive(Debug)]
-pub struct Item<'a> {
-    region: &'a str,
-    subregion: &'a str,
-    country: &'a str,
-    city: &'a str,
+impl fmt::Display for Item {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        write!(
+            f,
+            "<region {}> <subregion {}> <country {}> <city > {} | {} {}",
+            self.region, self.subregion, self.country, self.city, self.pm10, self.pm25,
+        )
+    }
+}
+
+pub struct Item {
+    region: String,
+    subregion: String,
+    country: String,
+    city: String,
     pm10: PmAndYear,
     pm25: PmAndYear,
 }
 
-pub trait Build<'a> {
+pub trait Build {
     fn new(
-        region: &'a str,
-        subregion: &'a str,
-        country: &'a str,
-        city: &'a str,
+        region: &str,
+        subregion: &str,
+        country: &str,
+        city: &str,
         pm10: PmAndYear,
         pm25: PmAndYear,
     ) -> Self;
 }
 
-impl<'a> Build<'a> for Item<'a> {
-    fn new<'b>(
-        region: &'b str,
-        subregion: &'b str,
-        country: &'b str,
-        city: &'b str,
+impl Build for Item {
+    fn new(
+        region: &str,
+        subregion: &str,
+        country: &str,
+        city: &str,
         pm10: PmAndYear,
         pm25: PmAndYear,
-    ) -> Item<'b> {
+    ) -> Item {
         Item {
-            region,
-            subregion,
-            country,
-            city,
+            region: region.to_string(),
+            subregion: subregion.to_string(),
+            country: country.to_string(),
+            city: city.to_string(),
             pm10,
             pm25,
         }
@@ -69,7 +78,7 @@ pub fn init_database() -> Result<()> {
     if db_path.exists() {
         fs::remove_file(db_path).unwrap();
     }
-    let conn = Connection::open(db_path)?;
+    let conn = Connection::open(db_path).unwrap();
     conn.execute(
         "CREATE TABLE IF NOT EXISTS air_quality (
              id INTEGER PRIMARY KEY,
@@ -83,8 +92,8 @@ pub fn init_database() -> Result<()> {
              pm25_year INTEGER 
          )",
         [],
-    )?;
-
+    )
+    .unwrap();
     Ok(())
 }
 
@@ -98,11 +107,11 @@ pub fn insert_item(conn: &Connection, item: &Item) -> Result<()> {
             &item.country.to_string() as &dyn types::ToSql,
             &item.city.to_string() as &dyn types::ToSql,
             &match item.pm10 {
-                PmAndYear::Pm25(pm, _) => Option::Some(pm),
+                PmAndYear::Pm10(pm, _) => Option::Some(pm),
                 _ => Option::None,
             } as &dyn types::ToSql,
             &match item.pm10 {
-                PmAndYear::Pm25(_, year) => Option::Some(year.year()),
+                PmAndYear::Pm10(_, year) => Option::Some(year.year()),
                 _ => Option::None,
             } as &dyn types::ToSql,
             &match item.pm25 {
@@ -119,7 +128,8 @@ pub fn insert_item(conn: &Connection, item: &Item) -> Result<()> {
     Ok(())
 }
 
-pub fn load_from_csv(conn: &Connection) -> Result<()> {
+pub fn load_from_csv() -> Result<()> {
+    let conn = Connection::open("air_quality.db").expect("Could not open database");
     let csv_path = Path::new("res/9.world_pm25_pm10.csv");
     let file = fs::File::open(csv_path).unwrap();
     let mut rdr = csv::ReaderBuilder::new()
@@ -165,7 +175,7 @@ pub fn load_from_csv(conn: &Connection) -> Result<()> {
                 }
             },
             match record.get(6).unwrap().parse() {
-                Ok(num) => PmAndYear::Pm10(
+                Ok(num) => PmAndYear::Pm25(
                     num,
                     Date::from_ordinal_date(
                         match record.get(7).unwrap().parse() {
@@ -183,45 +193,8 @@ pub fn load_from_csv(conn: &Connection) -> Result<()> {
                 }
             },
         );
-        insert_item(conn, &item).unwrap();
+        insert_item(&conn, &item).unwrap();
     }
 
     Ok(())
-}
-
-#[cfg(test)]
-mod tests {
-    use crate::db_option::{init_database, insert_item, load_from_csv, Build, Item};
-    use rusqlite::Connection;
-    use time::Date;
-
-    use super::PmAndYear;
-
-    #[test]
-    fn test_db_init() {
-        init_database().unwrap();
-
-        let conn = Connection::open("air_quality.db").expect("Could not open database");
-
-        let sample_item = Item::new(
-            "Sample Region",
-            "Sample Subregion",
-            "Sample Country",
-            "Sample City",
-            PmAndYear::Pm10(25.5, Date::from_ordinal_date(2023, 1).unwrap()),
-            PmAndYear::Pm25(15.3, Date::from_ordinal_date(2023, 1).unwrap()),
-        );
-
-        match insert_item(&conn, &sample_item) {
-            Ok(()) => println!("Item inserted successfully"),
-            Err(err) => eprintln!("Error inserting item: {}", err),
-        }
-    }
-
-    #[test]
-    fn test_load_csv() {
-        init_database().unwrap();
-        let conn = Connection::open("air_quality.db").expect("Could not open database");
-        load_from_csv(&conn).unwrap();
-    }
 }
