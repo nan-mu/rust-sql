@@ -1,5 +1,5 @@
 mod db_option;
-use crate::db_option::{init_database, insert_item, Item};
+use crate::db_option::{init_database, insert_item, Build, Item, PmAndYear};
 use rusqlite::Connection;
 use time::Date;
 
@@ -13,10 +13,8 @@ fn main() {
         "Sample Subregion",
         "Sample Country",
         "Sample City",
-        25.5,
-        Date::from_ordinal_date(2023, 1).unwrap(),
-        15.3,
-        Date::from_ordinal_date(2023, 1).unwrap(),
+        PmAndYear::Pm10(25.5, Date::from_ordinal_date(2023, 1).unwrap()),
+        PmAndYear::Pm25(15.3, Date::from_ordinal_date(2023, 1).unwrap()),
     );
 
     match insert_item(&conn, &sample_item) {
