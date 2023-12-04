@@ -653,7 +653,9 @@ EmrHI,EmrB,Bahrain,Hidd,178.38,2012,41.44,2012
 EmrHI,EmrB,Bahrain,Ma'ameer,257.35,2012,63.95,2012
 EmrHI,EmrB,Bahrain,Nabih Saleh,244.07,2012,58.2,2012
 EmrHI,EmrB,Bahrain,Ras Hayan,250.42,2012,43.92,2012
-EmrHI,EmrB,Oman,Muscat,82.0825,2008-2010,30.8415698,
+EmrHI,EmrB,Oman,Muscat,82.0825,2008,30.8415698,
+EmrHI,EmrB,Oman,Muscat,82.0825,2009,30.8415698,
+EmrHI,EmrB,Oman,Muscat,82.0825,2010,30.8415698,
 EmrHI,EmrB,Qatar,Al Wakrah,152,2012,85.1,2012
 EmrHI,EmrB,Qatar,Doha,167.6333333,2012,93.43333333,2012
 EmrHI,EmrB,Saudi Arabia,Jeddah,87.3,2011,28.4,2011
@@ -1294,7 +1296,8 @@ Sear,SearD,India,Khurja,154,2011,67.49349443,
 Sear,SearD,India,Kochi,64,2012,28.04924444,
 Sear,SearD,India,Kohima,64,2011,28.04924444,
 Sear,SearD,India,Kolhapur,81,2010,35.49982499,
-Sear,SearD,India,Kolkata,97,2009-2010,42.5121361,
+Sear,SearD,India,Kolkata,97,2009,42.5121361,
+Sear,SearD,India,Kolkata,97,2010,42.5121361,
 Sear,SearD,India,Kollam,39,2012,17.09250833,
 Sear,SearD,India,Korba,114.3333333,2012,50.10880647,
 Sear,SearD,India,Kota,146,2012,63.98733888,

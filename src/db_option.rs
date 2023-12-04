@@ -128,7 +128,7 @@ pub fn load_from_csv(conn: &Connection) -> Result<()> {
         .from_reader(file);
     for result in rdr.records() {
         let record = result.unwrap();
-        //println!("{:?}", record);//for debug
+        println!("{:?}", record); //for debug
         let item = Item::new(
             record.get(0).ok_or("Missing region").unwrap(),
             match record.get(1) {
@@ -146,39 +146,39 @@ pub fn load_from_csv(conn: &Connection) -> Result<()> {
                 }
             },
             record.get(3).ok_or("Missing city").unwrap(),
-            match record.get(4) {
-                Some(mes) => match mes.parse::<f64>() {
-                    Ok(num) => PmAndYear::Pm10(
-                        num,
-                        Date::from_ordinal_date(record.get(5).unwrap().parse().unwrap(), 1)
-                            .unwrap(),
-                    ),
-                    Err(e) => {
-                        println!("问题数据：{:?}；特别出在数字转换上", record);
-                        println!("{:?}", e);
-                        PmAndYear::None
-                    }
-                },
-                None => {
-                    println!("问题数据：{:?}", record);
+            match record.get(4).unwrap().parse() {
+                Ok(num) => PmAndYear::Pm10(
+                    num,
+                    Date::from_ordinal_date(
+                        match record.get(5).unwrap().parse() {
+                            Ok(year) => year,
+                            Err(_) => record.get(7).unwrap().parse().unwrap(),
+                        },
+                        1,
+                    )
+                    .unwrap(),
+                ),
+                Err(e) => {
+                    println!("问题数据：{:?}；可能缺少pm2.5", record);
+                    println!("{:?}", e);
                     PmAndYear::None
                 }
             },
-            match record.get(6) {
-                Some(mes) => match mes.parse::<f64>() {
-                    Ok(num) => PmAndYear::Pm10(
-                        num,
-                        Date::from_ordinal_date(record.get(7).unwrap().parse().unwrap(), 1)
-                            .unwrap(),
-                    ),
-                    Err(e) => {
-                        println!("问题数据：{:?}；特别出在数字转换上", record);
-                        println!("{:?}", e);
-                        PmAndYear::None
-                    }
-                },
-                None => {
-                    println!("问题数据：{:?}", record);
+            match record.get(6).unwrap().parse() {
+                Ok(num) => PmAndYear::Pm10(
+                    num,
+                    Date::from_ordinal_date(
+                        match record.get(7).unwrap().parse() {
+                            Ok(year) => year,
+                            Err(_) => record.get(5).unwrap().parse().unwrap(),
+                        },
+                        1,
+                    )
+                    .unwrap(),
+                ),
+                Err(e) => {
+                    println!("问题数据：{:?}；可能缺少pm2.5", record);
+                    println!("{:?}", e);
                     PmAndYear::None
                 }
             },
